@@ -53,7 +53,7 @@
                     "archived": false,
                     "id": 614765452,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:56:37Z",
+                    "last_commit": "2026-08-24T14:54:16Z",
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
                     "stars": 186849
@@ -68,7 +68,7 @@
                     "archived": false,
                     "id": 552661142,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:18:11Z",
+                    "last_commit": "2026-08-24T14:31:31Z",
                     "owner": "langchain-ai",
                     "repo": "langchain",
                     "stars": 144894
@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 771302083,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-24T14:26:36Z",
+                    "last_commit": "2026-08-24T14:44:44Z",
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 84945
+                    "stars": 84947
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-07-20T14:43:34Z",
                     "owner": "agiresearch",
                     "repo": "AIOS",
-                    "stars": 6277
+                    "stars": 6278
                   }
                 },
                 {
@@ -197,7 +197,7 @@
                     "last_commit": "2026-01-21T10:12:33Z",
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 69996
+                    "stars": 69998
                   }
                 },
                 {
@@ -264,7 +264,7 @@
                     "last_commit": "2026-08-24T13:09:29Z",
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 235518
+                    "stars": 235537
                   }
                 },
                 {
@@ -276,7 +276,7 @@
                     "archived": false,
                     "id": 552661142,
                     "language": "Python",
-                    "last_commit": "2026-08-24T13:18:11Z",
+                    "last_commit": "2026-08-24T14:31:31Z",
                     "owner": "langchain-ai",
                     "repo": "langchain",
                     "stars": 144894
@@ -324,7 +324,7 @@
                     "last_commit": "2026-08-24T09:15:53Z",
                     "owner": "langchain-ai",
                     "repo": "langgraph",
-                    "stars": 40358
+                    "stars": 40359
                   }
                 },
                 {
@@ -339,7 +339,7 @@
                     "last_commit": "2026-08-22T12:10:32Z",
                     "owner": "huggingface",
                     "repo": "smolagents",
-                    "stars": 28971
+                    "stars": 28970
                   }
                 },
                 {
@@ -369,7 +369,7 @@
                     "last_commit": "2024-08-05T21:38:56Z",
                     "owner": "joonspk-research",
                     "repo": "generative_agents",
-                    "stars": 21974
+                    "stars": 21975
                   }
                 },
                 {
@@ -384,7 +384,7 @@
                     "last_commit": "2026-08-24T14:16:09Z",
                     "owner": "pydantic",
                     "repo": "pydantic-ai",
-                    "stars": 19478
+                    "stars": 19479
                   }
                 },
                 {
@@ -691,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:29:17.506Z",
+    "last_updated": "2026-08-24T14:55:09.657Z",
     "original_repository": "Gloriaameng/Awesome-Agent-Harness",
     "original_repository_id": 1200398425,
     "original_repository_sha": "b73da2455d5169c7805abdd8d97e49ca335b9919",
