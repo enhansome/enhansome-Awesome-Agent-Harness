@@ -19,7 +19,7 @@
                     "last_commit": "2026-03-26T23:13:27Z",
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37248
+                    "stars": 37250
                   }
                 },
                 {
@@ -34,7 +34,7 @@
                     "last_commit": "2026-08-19T16:01:04Z",
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12378
+                    "stars": 12391
                   }
                 }
               ],
@@ -53,10 +53,10 @@
                     "archived": false,
                     "id": 614765452,
                     "language": "Python",
-                    "last_commit": "2026-08-23T13:10:52Z",
+                    "last_commit": "2026-08-24T13:56:37Z",
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
-                    "stars": 186809
+                    "stars": 186849
                   }
                 },
                 {
@@ -68,10 +68,10 @@
                     "archived": false,
                     "id": 552661142,
                     "language": "Python",
-                    "last_commit": "2026-08-23T08:08:17Z",
+                    "last_commit": "2026-08-24T13:18:11Z",
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 144823
+                    "stars": 144894
                   }
                 },
                 {
@@ -101,7 +101,7 @@
                     "last_commit": "2024-02-06T02:34:32Z",
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4116
+                    "stars": 4120
                   }
                 }
               ],
@@ -127,10 +127,10 @@
                     "archived": false,
                     "id": 771302083,
                     "language": "TypeScript",
-                    "last_commit": "2026-08-23T14:30:02Z",
+                    "last_commit": "2026-08-24T14:26:36Z",
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 84844
+                    "stars": 84945
                   }
                 },
                 {
@@ -145,7 +145,7 @@
                     "last_commit": "2026-08-17T22:33:19Z",
                     "owner": "SWE-agent",
                     "repo": "SWE-agent",
-                    "stars": 20112
+                    "stars": 20119
                   }
                 },
                 {
@@ -160,7 +160,7 @@
                     "last_commit": "2026-07-20T14:43:34Z",
                     "owner": "agiresearch",
                     "repo": "AIOS",
-                    "stars": 6272
+                    "stars": 6277
                   }
                 },
                 {
@@ -197,7 +197,7 @@
                     "last_commit": "2026-01-21T10:12:33Z",
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 69962
+                    "stars": 69996
                   }
                 },
                 {
@@ -212,7 +212,7 @@
                     "last_commit": "2026-04-15T11:59:09Z",
                     "owner": "microsoft",
                     "repo": "autogen",
-                    "stars": 60585
+                    "stars": 60609
                   }
                 },
                 {
@@ -227,7 +227,7 @@
                     "last_commit": "2026-07-24T08:01:27Z",
                     "owner": "OpenBMB",
                     "repo": "ChatDev",
-                    "stars": 34103
+                    "stars": 34113
                   }
                 },
                 {
@@ -242,7 +242,7 @@
                     "last_commit": "2026-08-21T11:36:45Z",
                     "owner": "camel-ai",
                     "repo": "camel",
-                    "stars": 17624
+                    "stars": 17631
                   }
                 }
               ],
@@ -261,10 +261,10 @@
                     "archived": false,
                     "id": 1024554267,
                     "language": "Python",
-                    "last_commit": "2026-08-23T13:52:32Z",
+                    "last_commit": "2026-08-24T13:09:29Z",
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 234702
+                    "stars": 235518
                   }
                 },
                 {
@@ -276,10 +276,10 @@
                     "archived": false,
                     "id": 552661142,
                     "language": "Python",
-                    "last_commit": "2026-08-23T08:08:17Z",
+                    "last_commit": "2026-08-24T13:18:11Z",
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 144823
+                    "stars": 144894
                   }
                 },
                 {
@@ -291,10 +291,10 @@
                     "archived": false,
                     "id": 710601088,
                     "language": "Python",
-                    "last_commit": "2026-08-22T02:36:57Z",
+                    "last_commit": "2026-08-24T13:16:05Z",
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 57501
+                    "stars": 57554
                   }
                 },
                 {
@@ -309,7 +309,7 @@
                     "last_commit": "2026-08-20T15:46:41Z",
                     "owner": "run-llama",
                     "repo": "llama_index",
-                    "stars": 51815
+                    "stars": 51840
                   }
                 },
                 {
@@ -321,10 +321,10 @@
                     "archived": false,
                     "id": 676672661,
                     "language": "Python",
-                    "last_commit": "2026-08-23T00:22:18Z",
+                    "last_commit": "2026-08-24T09:15:53Z",
                     "owner": "langchain-ai",
                     "repo": "langgraph",
-                    "stars": 40276
+                    "stars": 40358
                   }
                 },
                 {
@@ -339,7 +339,7 @@
                     "last_commit": "2026-08-22T12:10:32Z",
                     "owner": "huggingface",
                     "repo": "smolagents",
-                    "stars": 28938
+                    "stars": 28971
                   }
                 },
                 {
@@ -351,10 +351,10 @@
                     "archived": false,
                     "id": 703411624,
                     "language": null,
-                    "last_commit": "2026-08-23T07:56:26Z",
+                    "last_commit": "2026-08-23T19:05:43Z",
                     "owner": "letta-ai",
                     "repo": "letta",
-                    "stars": 24361
+                    "stars": 24401
                   }
                 },
                 {
@@ -369,7 +369,7 @@
                     "last_commit": "2024-08-05T21:38:56Z",
                     "owner": "joonspk-research",
                     "repo": "generative_agents",
-                    "stars": 21971
+                    "stars": 21974
                   }
                 },
                 {
@@ -381,10 +381,10 @@
                     "archived": false,
                     "id": 818331198,
                     "language": "Python",
-                    "last_commit": "2026-08-23T09:34:37Z",
+                    "last_commit": "2026-08-24T14:16:09Z",
                     "owner": "pydantic",
                     "repo": "pydantic-ai",
-                    "stars": 19453
+                    "stars": 19478
                   }
                 },
                 {
@@ -399,7 +399,7 @@
                     "last_commit": "2026-08-15T23:27:30Z",
                     "owner": "2FastLabs",
                     "repo": "agent-squad",
-                    "stars": 7742
+                    "stars": 7744
                   }
                 },
                 {
@@ -414,7 +414,7 @@
                     "last_commit": "2024-04-03T18:51:36Z",
                     "owner": "MineDojo",
                     "repo": "Voyager",
-                    "stars": 7156
+                    "stars": 7157
                   }
                 },
                 {
@@ -448,10 +448,10 @@
                     "archived": false,
                     "id": 290909192,
                     "language": "Python",
-                    "last_commit": "2026-08-22T22:59:11Z",
+                    "last_commit": "2026-08-24T13:52:45Z",
                     "owner": "EleutherAI",
                     "repo": "lm-evaluation-harness",
-                    "stars": 13752
+                    "stars": 13773
                   }
                 },
                 {
@@ -466,7 +466,7 @@
                     "last_commit": "2026-02-08T17:01:05Z",
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3682
+                    "stars": 3687
                   }
                 },
                 {
@@ -496,7 +496,7 @@
                     "last_commit": "2025-11-26T21:16:00Z",
                     "owner": "web-arena-x",
                     "repo": "webarena",
-                    "stars": 1584
+                    "stars": 1586
                   }
                 },
                 {
@@ -511,7 +511,7 @@
                     "last_commit": "2026-08-03T18:44:59Z",
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 936
+                    "stars": 960
                   }
                 }
               ],
@@ -540,7 +540,7 @@
                     "last_commit": "2026-08-22T20:48:02Z",
                     "owner": "TIGER-AI-Lab",
                     "repo": "ClawBench",
-                    "stars": 578
+                    "stars": 581
                   }
                 },
                 {
@@ -567,6 +567,28 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "Gorilla: \"Gorilla: Large Language Model Connected with Massive APIs\". Patil et al. NeurIPS 2023. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 642608852,
+                    "language": "Python",
+                    "last_commit": "2026-04-13T03:19:45Z",
+                    "owner": "ShishirPatil",
+                    "repo": "gorilla",
+                    "stars": 13007
+                  }
+                }
+              ],
+              "description": "Key numbers: MCP (tool↔harness): 2–15ms latency; A2A (agent↔agent): 50–200ms; ACP (intent-level, IBM) — three protocols serve complementary roles.",
+              "node_type": "group",
+              "title": "Protocol Standardization"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
                   "title": "ToolLLM: \"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs\". Qin et al. ICLR 2024. [Paper",
                   "description": "] [Code]",
                   "children": [],
@@ -577,7 +599,7 @@
                     "last_commit": "2025-05-21T15:46:59Z",
                     "owner": "OpenBMB",
                     "repo": "ToolBench",
-                    "stars": 5733
+                    "stars": 5735
                   }
                 },
                 {
@@ -592,7 +614,7 @@
                     "last_commit": "2024-05-23T23:14:59Z",
                     "owner": "xingyaoww",
                     "repo": "code-act",
-                    "stars": 1698
+                    "stars": 1699
                   }
                 }
               ],
@@ -629,13 +651,35 @@
                     "last_commit": "2024-07-30T20:29:27Z",
                     "owner": "lapisrocks",
                     "repo": "LanguageAgentTreeSearch",
-                    "stars": 852
+                    "stars": 853
                   }
                 }
               ],
               "description": "Key numbers: SWE-agent ACI study shows interface design outweighs model capability as the primary performance determinant. LATS integrates MCTS with language model feedback for state-space search. Plan-on-Graph enables adaptive self-correcting planning on knowledge graphs through guidance, memory, and reflection mechanisms.",
               "node_type": "group",
               "title": "Planning & Reasoning"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Agon†: \"Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy\". Sun et al. arXiv 2026. [Paper",
+                  "description": "] [Code]",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 1273471983,
+                    "language": "Python",
+                    "last_commit": "2026-08-22T06:15:12Z",
+                    "owner": "AutoResearch-Factory",
+                    "repo": "Agon",
+                    "stars": 42
+                  }
+                }
+              ],
+              "description": "Key numbers: AgencyBench — agents achieve 48.4% success on native SDK harness vs substantially lower on independent harnesses, demonstrating tight harness-agent coupling. Byzantine fault tolerance remains an open problem for adversarial multi-agent settings.",
+              "node_type": "group",
+              "title": "Multi-Agent Coordination"
             }
           ],
           "description": "Scope: We identify nine open research problems where current harness infrastructure provides partial solutions but no production-grade, generalizable frameworks. Each challenge represents a gap between what academic prototypes demonstrate and what deployed systems require.\nEvaluation criteria: For each challenge, we assess: (1) Academic coverage — peer-reviewed solutions, if any; (2) Production maturity — whether any deployed system has solved it at scale; (3) Blocking severity — whether the unsolved problem prevents deployment or merely limits performance.\nCross-cutting theme: Most challenges stem from the composition problem — individual components (security sandboxes, memory stores, evaluation metrics) work in isolation, but combining them into a coherent harness surfaces emergent failures. Formal verification, portability testing, and protocol interoperability all require compositional reasoning that current research has not addressed.",
@@ -647,7 +691,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-23T14:35:10.887Z",
+    "last_updated": "2026-08-24T14:29:17.506Z",
     "original_repository": "Gloriaameng/Awesome-Agent-Harness",
     "original_repository_id": 1200398425,
     "original_repository_sha": "b73da2455d5169c7805abdd8d97e49ca335b9919",
