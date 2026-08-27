@@ -4,7 +4,7 @@
 
 # Awesome Agent Harness for Large Language Model Agents: A Survey with stars
 
-[![GitHub Stars](https://img.shields.io/github/stars/Gloriaameng/LLM-Agent-Harness-Survey?style=social)](https://github.com/Gloriaameng/LLM-Agent-Harness-Survey/stargazers) ⭐ 336 | 🐛 0 | 📅 2026-07-28
+[![GitHub Stars](https://img.shields.io/github/stars/Gloriaameng/LLM-Agent-Harness-Survey?style=social)](https://github.com/Gloriaameng/LLM-Agent-Harness-Survey/stargazers) ⭐ 340 | 🐛 0 | 📅 2026-07-28
 [![License](https://img.shields.io/badge/License-CC--BY--4.0-blue.svg)](LICENSE)
 [![Papers](https://img.shields.io/badge/Papers-150%2B-green)]()
 [![Version](https://img.shields.io/badge/Version-v3-orange)]()
@@ -283,14 +283,14 @@ We introduce a formal definition of the **agent execution harness** as a six-com
 #### RL Environment Harnesses (2016–2022)
 
 * <u>OpenAI Gym</u>: **"OpenAI Gym"**. *Brockman et al.* arXiv 2016. \[[Paper](https://arxiv.org/abs/1606.01540)] \[[Code](https://github.com/openai/gym) ⚠️ Archived]
-* <u>Gymnasium</u>: **"Gymnasium: A Standard Interface for Reinforcement Learning Environments"**. *Towers et al.* NeurIPS 2025. \[[Paper](https://arxiv.org/abs/2407.17032)] \[[Code](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,405 | 🐛 79 | 🌐 Python | 📅 2026-08-19]
+* <u>Gymnasium</u>: **"Gymnasium: A Standard Interface for Reinforcement Learning Environments"**. *Towers et al.* NeurIPS 2025. \[[Paper](https://arxiv.org/abs/2407.17032)] \[[Code](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,413 | 🐛 79 | 🌐 Python | 📅 2026-08-19]
 
 #### Early LLM Agent Frameworks (2023–2024)
 
-* <u>AutoGPT</u>: **"Auto-GPT: An Autonomous GPT-4 Experiment"**. *Gravitas et al.* GitHub 2023. \[[Code](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,882 | 🐛 517 | 🌐 Python | 📅 2026-08-26]
-* <u>LangChain</u>: **"LangChain: Building Applications with LLMs through Composability"**. *Chase et al.* GitHub 2022. \[[Code](https://github.com/langchain-ai/langchain) ⭐ 145,050 | 🐛 429 | 🌐 Python | 📅 2026-08-26]
-* <u>BabyAGI</u>: **"BabyAGI"**. *Nakajima.* GitHub 2023. \[[Code](https://github.com/yoheinakajima/babyagi) ⭐ 22,356 | 🐛 30 | 🌐 Python | 📅 2026-01-31]
-* <u>ReAct</u>: **"ReAct: Synergizing Reasoning and Acting in Language Models"**. *Yao et al.* ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)] \[[Code](https://github.com/ysymyth/ReAct) ⭐ 4,121 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06]
+* <u>AutoGPT</u>: **"Auto-GPT: An Autonomous GPT-4 Experiment"**. *Gravitas et al.* GitHub 2023. \[[Code](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 186,921 | 🐛 503 | 🌐 Python | 📅 2026-08-27]
+* <u>LangChain</u>: **"LangChain: Building Applications with LLMs through Composability"**. *Chase et al.* GitHub 2022. \[[Code](https://github.com/langchain-ai/langchain) ⭐ 145,109 | 🐛 432 | 🌐 Python | 📅 2026-08-26]
+* <u>BabyAGI</u>: **"BabyAGI"**. *Nakajima.* GitHub 2023. \[[Code](https://github.com/yoheinakajima/babyagi) ⭐ 22,357 | 🐛 30 | 🌐 Python | 📅 2026-01-31]
+* <u>ReAct</u>: **"ReAct: Synergizing Reasoning and Acting in Language Models"**. *Yao et al.* ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)] \[[Code](https://github.com/ysymyth/ReAct) ⭐ 4,126 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06]
 * <u>Toolformer</u>: **"Toolformer: Language Models Can Teach Themselves to Use Tools"**. *Schick et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2302.04761)]
 * <u>HuggingGPT</u>: **"HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends in Hugging Face"**. *Shen et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2303.17580)]
 
@@ -306,44 +306,44 @@ We introduce a formal definition of the **agent execution harness** as a six-com
 
 #### Full-Stack Harnesses
 
-* <u>OpenHands</u>: **"OpenHands: An Open Platform for AI Software Developers as Generalist Agents"**. *Wang et al.* ICLR 2025. \[[Paper](https://arxiv.org/abs/2407.16741)] \[[Code](https://github.com/All-Hands-AI/OpenHands) ⭐ 85,160 | 🐛 568 | 🌐 TypeScript | 📅 2026-08-26]
-* <u>SWE-agent</u>: **"SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"**. *Yang et al.* NeurIPS 2024. \[[Paper](https://arxiv.org/abs/2405.15793)] \[[Code](https://github.com/SWE-agent/SWE-agent) ⭐ 20,145 | 🐛 81 | 🌐 Python | 📅 2026-08-24]
-* <u>AIOS</u>: **"AIOS: LLM Agent Operating System"**. *Mei et al.* COLM 2025. \[[Paper](https://arxiv.org/abs/2403.16971)] \[[Code](https://github.com/agiresearch/AIOS) ⭐ 6,289 | 🐛 60 | 🌐 Python | 📅 2026-07-20]
+* <u>OpenHands</u>: **"OpenHands: An Open Platform for AI Software Developers as Generalist Agents"**. *Wang et al.* ICLR 2025. \[[Paper](https://arxiv.org/abs/2407.16741)] \[[Code](https://github.com/All-Hands-AI/OpenHands) ⭐ 85,253 | 🐛 590 | 🌐 TypeScript | 📅 2026-08-27]
+* <u>SWE-agent</u>: **"SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering"**. *Yang et al.* NeurIPS 2024. \[[Paper](https://arxiv.org/abs/2405.15793)] \[[Code](https://github.com/SWE-agent/SWE-agent) ⭐ 20,151 | 🐛 82 | 🌐 Python | 📅 2026-08-24]
+* <u>AIOS</u>: **"AIOS: LLM Agent Operating System"**. *Mei et al.* COLM 2025. \[[Paper](https://arxiv.org/abs/2403.16971)] \[[Code](https://github.com/agiresearch/AIOS) ⭐ 6,293 | 🐛 60 | 🌐 Python | 📅 2026-07-20]
 * <u>AOHP</u>: **"AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction"**. arXiv 2026. \[[Paper](https://arxiv.org/abs/2606.23449)] \[[Code](https://github.com/aohp-os/aohp) ⭐ 150 | 🐛 1 | 🌐 Python | 📅 2026-07-23]
 * <u>PRISM/OpenClaw</u>: **"OpenClaw PRISM: A Zero-Fork, Defense-in-Depth Runtime Security Layer for Tool-Augmented LLM Agents"**. *Li.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.11853)]
 * <u>HAL</u>: **"Holistic Agent Leaderboard: The Missing Infrastructure for AI Agent Evaluation"**. *Kapoor et al.* ICLR 2026. \[[Paper](https://arxiv.org/abs/2510.11977)]
 
 #### Multi-Agent Harnesses
 
-* <u>MetaGPT</u>: **"MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework"**. *Hong et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2308.00352)] \[[Code](https://github.com/geekan/MetaGPT) ⭐ 70,048 | 🐛 132 | 🌐 Python | 📅 2026-01-21]
-* <u>AutoGen</u>: **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation"**. *Wu et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.08155)] \[[Code](https://github.com/microsoft/autogen) ⭐ 60,637 | 🐛 1,004 | 🌐 Python | 📅 2026-04-15]
-* <u>ChatDev</u>: **"ChatDev: Communicative Agents for Software Development"**. *Qian et al.* ACL 2024. \[[Paper](https://arxiv.org/abs/2307.07924)] \[[Code](https://github.com/OpenBMB/ChatDev) ⭐ 34,127 | 🐛 67 | 🌐 Python | 📅 2026-07-24]
-* <u>CAMEL</u>: **"CAMEL: Communicative Agents for 'Mind' Exploration of Large Language Model Society"**. *Li et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2303.17760)] \[[Code](https://github.com/camel-ai/camel) ⭐ 17,644 | 🐛 483 | 🌐 Python | 📅 2026-08-21]
+* <u>MetaGPT</u>: **"MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework"**. *Hong et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2308.00352)] \[[Code](https://github.com/geekan/MetaGPT) ⭐ 70,062 | 🐛 133 | 🌐 Python | 📅 2026-01-21]
+* <u>AutoGen</u>: **"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation"**. *Wu et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.08155)] \[[Code](https://github.com/microsoft/autogen) ⭐ 60,647 | 🐛 1,004 | 🌐 Python | 📅 2026-04-15]
+* <u>ChatDev</u>: **"ChatDev: Communicative Agents for Software Development"**. *Qian et al.* ACL 2024. \[[Paper](https://arxiv.org/abs/2307.07924)] \[[Code](https://github.com/OpenBMB/ChatDev) ⭐ 34,131 | 🐛 67 | 🌐 Python | 📅 2026-07-24]
+* <u>CAMEL</u>: **"CAMEL: Communicative Agents for 'Mind' Exploration of Large Language Model Society"**. *Li et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2303.17760)] \[[Code](https://github.com/camel-ai/camel) ⭐ 17,646 | 🐛 484 | 🌐 Python | 📅 2026-08-27]
 
 #### Frameworks & Modules
 
-* <u>Hermes Agent</u>: **"Hermes Agent: Self-Improving AI Agent Framework"**. *Nous Research.* GitHub 2026. \[[Code](https://github.com/nousresearch/hermes-agent) ⭐ 236,735 | 🐛 36,098 | 🌐 Python | 📅 2026-08-26] \[[Docs](https://hermes-agent.nousresearch.com/docs/)]
-* <u>LangChain</u>: **"LangChain: Building Applications with LLMs through Composability"**. *Chase et al.* GitHub 2022. \[[Code](https://github.com/langchain-ai/langchain) ⭐ 145,050 | 🐛 429 | 🌐 Python | 📅 2026-08-26]
-* <u>CrewAI</u>: **"CrewAI: Framework for Orchestrating Role-Playing, Autonomous AI Agents"**. *Moura et al.* GitHub 2024. \[[Code](https://github.com/crewAIInc/crewAI) ⭐ 57,638 | 🐛 792 | 🌐 Python | 📅 2026-08-26]
-* <u>LlamaIndex</u>: **"LlamaIndex: A Data Framework for LLM Applications"**. *Liu et al.* GitHub 2022. \[[Code](https://github.com/run-llama/llama_index) ⭐ 51,882 | 🐛 682 | 🌐 Python | 📅 2026-08-26]
-* <u>LangGraph</u>: **"LangGraph: Build Resilient Language Agents as Graphs"**. *LangChain team.* GitHub 2024. \[[Code](https://github.com/langchain-ai/langgraph) ⭐ 40,489 | 🐛 724 | 🌐 Python | 📅 2026-08-26]
-* <u>smolagents</u>: **"smolagents: A Smol Library to Build Great Agentic Systems"**. *Roucher et al.* GitHub 2025. \[[Code](https://github.com/huggingface/smolagents) ⭐ 29,001 | 🐛 734 | 🌐 Python | 📅 2026-08-25]
-* <u>MemGPT</u>: **"MemGPT: Towards LLMs as Operating Systems"**. *Packer et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2310.08560)] \[[Code](https://github.com/cpacker/MemGPT) ⭐ 24,448 | 🐛 39 | 📅 2026-08-23]
-* <u>Generative Agents</u>: **"Generative Agents: Interactive Simulacra of Human Behavior"**. *Park et al.* UIST 2023. \[[Paper](https://arxiv.org/abs/2304.03442)] \[[Code](https://github.com/joonspk-research/generative_agents) ⭐ 21,992 | 🐛 146 | 📅 2024-08-05]
-* <u>PydanticAI</u>: **"PydanticAI: Agent Framework for Production-Grade GenAI Applications"**. *Pydantic Team.* GitHub 2024. \[[Code](https://github.com/pydantic/pydantic-ai) ⭐ 19,511 | 🐛 736 | 🌐 Python | 📅 2026-08-26]
-* <u>AWS Multi-Agent Orchestrator</u>: **"Multi-Agent Orchestrator"**. *Amazon Web Services.* GitHub 2024. \[[Code](https://github.com/awslabs/agent-squad) ⭐ 7,748 | 🐛 86 | 🌐 Swift | 📅 2026-08-15]
-* <u>Voyager</u>: **"Voyager: An Open-Ended Embodied Agent with Large Language Models"**. *Wang et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.16291)] \[[Code](https://github.com/MineDojo/Voyager) ⭐ 7,160 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03]
-* <u>Reflexion</u>: **"Reflexion: Language Agents with Verbal Reinforcement Learning"**. *Shinn et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2303.11366)] \[[Code](https://github.com/noahshinn/reflexion) ⭐ 3,242 | 🐛 24 | 🌐 Python | 📅 2025-01-14]
+* <u>Hermes Agent</u>: **"Hermes Agent: Self-Improving AI Agent Framework"**. *Nous Research.* GitHub 2026. \[[Code](https://github.com/nousresearch/hermes-agent) ⭐ 237,131 | 🐛 36,374 | 🌐 Python | 📅 2026-08-27] \[[Docs](https://hermes-agent.nousresearch.com/docs/)]
+* <u>LangChain</u>: **"LangChain: Building Applications with LLMs through Composability"**. *Chase et al.* GitHub 2022. \[[Code](https://github.com/langchain-ai/langchain) ⭐ 145,109 | 🐛 432 | 🌐 Python | 📅 2026-08-26]
+* <u>CrewAI</u>: **"CrewAI: Framework for Orchestrating Role-Playing, Autonomous AI Agents"**. *Moura et al.* GitHub 2024. \[[Code](https://github.com/crewAIInc/crewAI) ⭐ 57,667 | 🐛 793 | 🌐 Python | 📅 2026-08-27]
+* <u>LlamaIndex</u>: **"LlamaIndex: A Data Framework for LLM Applications"**. *Liu et al.* GitHub 2022. \[[Code](https://github.com/run-llama/llama_index) ⭐ 51,890 | 🐛 666 | 🌐 Python | 📅 2026-08-27]
+* <u>LangGraph</u>: **"LangGraph: Build Resilient Language Agents as Graphs"**. *LangChain team.* GitHub 2024. \[[Code](https://github.com/langchain-ai/langgraph) ⭐ 40,538 | 🐛 723 | 🌐 Python | 📅 2026-08-27]
+* <u>smolagents</u>: **"smolagents: A Smol Library to Build Great Agentic Systems"**. *Roucher et al.* GitHub 2025. \[[Code](https://github.com/huggingface/smolagents) ⭐ 29,017 | 🐛 735 | 🌐 Python | 📅 2026-08-25]
+* <u>MemGPT</u>: **"MemGPT: Towards LLMs as Operating Systems"**. *Packer et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2310.08560)] \[[Code](https://github.com/cpacker/MemGPT) ⭐ 24,463 | 🐛 39 | 📅 2026-08-23]
+* <u>Generative Agents</u>: **"Generative Agents: Interactive Simulacra of Human Behavior"**. *Park et al.* UIST 2023. \[[Paper](https://arxiv.org/abs/2304.03442)] \[[Code](https://github.com/joonspk-research/generative_agents) ⭐ 21,998 | 🐛 146 | 📅 2024-08-05]
+* <u>PydanticAI</u>: **"PydanticAI: Agent Framework for Production-Grade GenAI Applications"**. *Pydantic Team.* GitHub 2024. \[[Code](https://github.com/pydantic/pydantic-ai) ⭐ 19,528 | 🐛 744 | 🌐 Python | 📅 2026-08-27]
+* <u>AWS Multi-Agent Orchestrator</u>: **"Multi-Agent Orchestrator"**. *Amazon Web Services.* GitHub 2024. \[[Code](https://github.com/awslabs/agent-squad) ⭐ 7,749 | 🐛 87 | 🌐 Swift | 📅 2026-08-15]
+* <u>Voyager</u>: **"Voyager: An Open-Ended Embodied Agent with Large Language Models"**. *Wang et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2305.16291)] \[[Code](https://github.com/MineDojo/Voyager) ⭐ 7,162 | 🐛 8 | 🌐 JavaScript | 📅 2024-04-03]
+* <u>Reflexion</u>: **"Reflexion: Language Agents with Verbal Reinforcement Learning"**. *Shinn et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2303.11366)] \[[Code](https://github.com/noahshinn/reflexion) ⭐ 3,243 | 🐛 24 | 🌐 Python | 📅 2025-01-14]
 * <u>DeerFlow</u>: **"DeerFlow: Distributed Workflow Engine for LLM Agents"**. *GitHub 2024.* \[[Code](https://github.com/modelscope/DeerFlow)]
 * <u>DeepAgents</u>: **"DeepAgents: Multi-Agent Framework for Deep Learning"**. *GitHub 2024.* \[[Code](https://github.com/deepagents/deepagents)]
 
 #### Evaluation Infrastructure
 
-* <u>lm-evaluation-harness</u>: **"lm-evaluation-harness"**. *Gao et al.* GitHub 2021. \[[Code](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 13,798 | 🐛 938 | 🌐 Python | 📅 2026-08-26]
-* <u>AgentBench</u>: **"AgentBench: Evaluating LLMs as Agents"**. *Liu et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2308.03688)] \[[Code](https://github.com/THUDM/AgentBench) ⭐ 3,695 | 🐛 76 | 🌐 Python | 📅 2026-02-08]
-* <u>OSWorld</u>: **"OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"**. *Xie et al.* NeurIPS 2024. \[[Paper](https://arxiv.org/abs/2404.07972)] \[[Code](https://github.com/xlang-ai/OSWorld) ⭐ 3,107 | 🐛 197 | 🌐 Python | 📅 2026-08-21]
-* <u>WebArena</u>: **"WebArena: A Realistic Web Environment for Building Autonomous Agents"**. *Zhou et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2307.13854)] \[[Code](https://github.com/web-arena-x/webarena) ⭐ 1,588 | 🐛 101 | 🌐 Python | 📅 2025-11-26]
-* <u>agent-qa</u>: **"agent-qa: Self-Improving QA Harness with Memory"**. *Vostride.* GitHub 2026. \[[Code](https://github.com/vostride/agent-qa) ⭐ 875 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03]
+* <u>lm-evaluation-harness</u>: **"lm-evaluation-harness"**. *Gao et al.* GitHub 2021. \[[Code](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 13,809 | 🐛 934 | 🌐 Python | 📅 2026-08-26]
+* <u>AgentBench</u>: **"AgentBench: Evaluating LLMs as Agents"**. *Liu et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2308.03688)] \[[Code](https://github.com/THUDM/AgentBench) ⭐ 3,699 | 🐛 76 | 🌐 Python | 📅 2026-02-08]
+* <u>OSWorld</u>: **"OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments"**. *Xie et al.* NeurIPS 2024. \[[Paper](https://arxiv.org/abs/2404.07972)] \[[Code](https://github.com/xlang-ai/OSWorld) ⭐ 3,109 | 🐛 198 | 🌐 Python | 📅 2026-08-21]
+* <u>WebArena</u>: **"WebArena: A Realistic Web Environment for Building Autonomous Agents"**. *Zhou et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2307.13854)] \[[Code](https://github.com/web-arena-x/webarena) ⭐ 1,589 | 🐛 101 | 🌐 Python | 📅 2025-11-26]
+* <u>agent-qa</u>: **"agent-qa: Self-Improving QA Harness with Memory"**. *Vostride.* GitHub 2026. \[[Code](https://github.com/vostride/agent-qa) ⭐ 842 | 🐛 0 | 🌐 TypeScript | 📅 2026-08-03]
 * <u>API-Bank</u>: **"Api-bank: A comprehensive benchmark for tool-augmented llms"**. *Li et al.* EMNLP 2023. \[[Paper](https://aclanthology.org/2023.emnlp-main.187/)]
 * <u>SWE-bench</u>: **"SWE-bench: Can Language Models Resolve Real-World GitHub Issues?"**. *Jimenez et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2310.06770)] \[[Code](https://github.com/swebench/SWE-bench)]
 * <u>GAIA</u>: **"GAIA: A Benchmark for General AI Assistants"**. *Mialon et al.* ICLR 2024. \[[Paper](https://arxiv.org/abs/2311.12983)]
@@ -396,7 +396,7 @@ We introduce a formal definition of the **agent execution harness** as a six-com
 
 > **Key numbers:** HAL unified **21,730 rollouts**, compressing weeks of evaluation to hours; OSWorld reports **28% false negative rate** in automated evaluation; METR finds benchmark-passing PRs have **24.2pp lower** human merge rate, widening at 9.6pp/year.
 
-* <u>ClawBench</u>†: **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"**. *Zhang et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 589 | 🐛 60 | 🌐 Python | 📅 2026-08-22] \[[Project](https://claw-bench.com/)]
+* <u>ClawBench</u>†: **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"**. *Zhang et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/reacher-z/ClawBench) ⭐ 593 | 🐛 60 | 🌐 Python | 📅 2026-08-22] \[[Project](https://claw-bench.com/)]
 * <u>PerspectiveGap</u>†: **"PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting"**. *Sun et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2606.08878)] \[[Code](https://github.com/WhymustIhaveaname/PerspectiveGap) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-07-27]
 * <u>AgencyBench</u>†: **"AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts"**. *Li et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.11044)]
 * <u>AEGIS</u>†: **"AEGIS: No Tool Call Left Unchecked -- A Pre-Execution Firewall and Audit Layer for AI Agents"**. *Yuan et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.12621)]
@@ -418,7 +418,7 @@ We introduce a formal definition of the **agent execution harness** as a six-com
 
 > **Key numbers:** MCP (tool↔harness): 2–15ms latency; A2A (agent↔agent): 50–200ms; ACP (intent-level, IBM) — three protocols serve complementary roles.
 
-* <u>Gorilla</u>: **"Gorilla: Large Language Model Connected with Massive APIs"**. *Patil et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.15334)] \[[Code](https://github.com/ShishirPatil/gorilla) ⭐ 13,008 | 🐛 275 | 🌐 Python | 📅 2026-04-13]
+* <u>Gorilla</u>: **"Gorilla: Large Language Model Connected with Massive APIs"**. *Patil et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.15334)] \[[Code](https://github.com/ShishirPatil/gorilla) ⭐ 13,008 | 🐛 276 | 🌐 Python | 📅 2026-04-13]
 * <u>MCP</u>: **"Model Context Protocol"**. *Anthropic.* Technical Report 2024. \[[Spec](https://modelcontextprotocol.io)]
 * <u>A2A</u>: **"Agent-to-Agent Protocol"**. *Google.* Technical Report 2025. \[[Spec](https://google.github.io/A2A/)] \[[Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)]
 * <u>Protocol Comparison</u>†: **"A Survey of Agent Interoperability Protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)"**. *Ehtesham et al.* arXiv 2025. \[[Paper](https://arxiv.org/abs/2505.02279)]
@@ -466,7 +466,7 @@ We introduce a formal definition of the **agent execution harness** as a six-com
 
 > **Key numbers:** SWE-agent ACI study shows interface design outweighs model capability as the primary performance determinant. LATS integrates MCTS with language model feedback for state-space search. Plan-on-Graph enables adaptive self-correcting planning on knowledge graphs through guidance, memory, and reflection mechanisms.
 
-* <u>Tree of Thoughts</u>: **"Tree of Thoughts: Deliberate Problem Solving with Large Language Models"**. *Yao et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.10601)] \[[Code](https://github.com/princeton-nlp/tree-of-thought-llm) ⭐ 6,056 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
+* <u>Tree of Thoughts</u>: **"Tree of Thoughts: Deliberate Problem Solving with Large Language Models"**. *Yao et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.10601)] \[[Code](https://github.com/princeton-nlp/tree-of-thought-llm) ⭐ 6,057 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
 * <u>LATS</u>: **"Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models"**. *Zhou et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2310.04406)] \[[Code](https://github.com/lapisrocks/LanguageAgentTreeSearch) ⭐ 855 | 🐛 8 | 🌐 Python | 📅 2024-07-30]
 * <u>Plan-on-Graph</u>: **"Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs"**. *Chen et al.* NeurIPS 2024. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4254e856d01a5e7b7ea050477c3ef9b9-Abstract-Conference.html)]
 * <u>AFlow</u>†: **"AFlow: Automating Agentic Workflow Generation"**. *Zhang et al.* arXiv 2024. \[[Paper](https://arxiv.org/abs/2410.10762)]
@@ -588,4 +588,4 @@ See BibTeX at the top of this README.
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-27._
