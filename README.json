@@ -14,12 +14,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": true,
+                    "description": "A toolkit for developing and comparing reinforcement learning algorithms.",
+                    "homepage": "https://www.gymlibrary.dev",
                     "id": 57222302,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-03-26T23:13:27Z",
+                    "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37246
+                    "stars": 37244,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -30,12 +35,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A standard API for single-agent reinforcement learning environments, with popular reference environments and related utilities (formerly Gym)",
+                    "homepage": "https://gymnasium.farama.org",
                     "id": 534011733,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T17:57:29Z",
+                    "open_issues": 77,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12426
+                    "stars": 12427,
+                    "topics": [
+                      "api",
+                      "gym",
+                      "reinforcement-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -53,12 +67,29 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AutoGPT is the vision of accessible AI for everyone, to use and to build on. Our mission is to provide the tools, so that you can focus on what matters.",
+                    "homepage": "https://agpt.co",
                     "id": 614765452,
                     "language": "Python",
-                    "last_commit": "2026-08-28T19:28:51Z",
+                    "license": "NOASSERTION",
+                    "last_commit": "2026-08-29T04:02:30Z",
+                    "open_issues": 517,
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
-                    "stars": 186964
+                    "stars": 186964,
+                    "topics": [
+                      "agentic-ai",
+                      "agents",
+                      "ai",
+                      "artificial-intelligence",
+                      "autonomous-agents",
+                      "claude",
+                      "gpt",
+                      "llama-api",
+                      "llm",
+                      "openai",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -69,12 +100,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The agent engineering platform.",
+                    "homepage": "https://docs.langchain.com/langchain/",
                     "id": 552661142,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T23:20:17Z",
+                    "open_issues": 431,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 145207
+                    "stars": 145216,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "ai-agents",
+                      "anthropic",
+                      "chatgpt",
+                      "deepagents",
+                      "enterprise",
+                      "framework",
+                      "gemini",
+                      "generative-ai",
+                      "langchain",
+                      "langgraph",
+                      "llm",
+                      "multiagent",
+                      "open-source",
+                      "openai",
+                      "pydantic",
+                      "python",
+                      "rag",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -85,12 +142,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": null,
+                    "homepage": "https://babyagi.org/",
                     "id": 622737738,
                     "language": "Python",
+                    "license": null,
                     "last_commit": "2026-01-31T05:05:45Z",
+                    "open_issues": 29,
                     "owner": "yoheinakajima",
                     "repo": "babyagi",
-                    "stars": 22357
+                    "stars": 22356,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -101,12 +163,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR 2023] ReAct: Synergizing Reasoning and Acting in Language Models",
+                    "homepage": null,
                     "id": 565563619,
                     "language": "Jupyter Notebook",
+                    "license": "MIT",
                     "last_commit": "2024-02-06T02:34:32Z",
+                    "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4130
+                    "stars": 4131,
+                    "topics": [
+                      "decision-making",
+                      "large-language-models",
+                      "llm",
+                      "prompting",
+                      "reasoning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -131,12 +204,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🙌 OpenHands: AI-Driven Development",
+                    "homepage": "https://openhands.dev",
                     "id": 771302083,
                     "language": "TypeScript",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T23:27:42Z",
+                    "open_issues": 604,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 85469
+                    "stars": 85483,
+                    "topics": [
+                      "agent",
+                      "artificial-intelligence",
+                      "chatgpt",
+                      "claude-ai",
+                      "cli",
+                      "developer-tools",
+                      "gpt",
+                      "llm",
+                      "openai"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -147,12 +235,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "SWE-agent takes a GitHub issue and tries to automatically fix it, using your LM of choice. It can also be employed for offensive cybersecurity or competitive coding challenges. [NeurIPS 2024] ",
+                    "homepage": "https://swe-agent.com",
                     "id": 780737106,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T22:03:09Z",
+                    "open_issues": 82,
                     "owner": "SWE-agent",
                     "repo": "SWE-agent",
-                    "stars": 20167
+                    "stars": 20169,
+                    "topics": [
+                      "agent",
+                      "agent-based-model",
+                      "ai",
+                      "cybersecurity",
+                      "developer-tools",
+                      "llm",
+                      "lms"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -163,12 +264,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "AIOS: AI Agent Operating System",
+                    "homepage": "https://docs.aios.foundation",
                     "id": 743359402,
                     "language": "Python",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-07-20T14:43:34Z",
+                    "open_issues": 60,
                     "owner": "agiresearch",
                     "repo": "AIOS",
-                    "stars": 6304
+                    "stars": 6305,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -179,12 +285,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An OS-level agent harness for personalized, efficient and secure interaction",
+                    "homepage": null,
                     "id": 1245760328,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-23T09:28:56Z",
+                    "open_issues": 1,
                     "owner": "aohp-os",
                     "repo": "aohp",
-                    "stars": 150
+                    "stars": 150,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -202,12 +313,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🌟 The Multi-Agent Framework: First AI Software Company, Towards Natural Language Programming",
+                    "homepage": "https://atoms.dev/",
                     "id": 660551251,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
+                    "open_issues": 135,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70087
+                    "stars": 70090,
+                    "topics": [
+                      "agent",
+                      "gpt",
+                      "llm",
+                      "metagpt",
+                      "multi-agent"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -218,12 +340,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A programming framework for agentic AI",
+                    "homepage": "https://microsoft.github.io/autogen/",
                     "id": 680120071,
                     "language": "Python",
+                    "license": "CC-BY-4.0",
                     "last_commit": "2026-04-15T11:59:09Z",
+                    "open_issues": 992,
                     "owner": "microsoft",
                     "repo": "autogen",
-                    "stars": 60676
+                    "stars": 60680,
+                    "topics": [
+                      "agentic",
+                      "agentic-agi",
+                      "agents",
+                      "ai",
+                      "autogen",
+                      "autogen-ecosystem",
+                      "chatgpt",
+                      "framework",
+                      "llm-agent",
+                      "llm-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -234,12 +372,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "ChatDev 2.0: Dev All through LLM-powered Multi-Agent Collaboration",
+                    "homepage": "https://arxiv.org/abs/2307.07924",
                     "id": 683892956,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-07-24T08:01:27Z",
+                    "open_issues": 68,
                     "owner": "OpenBMB",
                     "repo": "ChatDev",
-                    "stars": 34141
+                    "stars": 34142,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -250,12 +393,27 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🐫 CAMEL: The first and the best multi-agent framework. Finding the Scaling Law of Agents. https://www.camel-ai.org",
+                    "homepage": "https://docs.camel-ai.org/",
                     "id": 615510678,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T06:39:24Z",
+                    "open_issues": 488,
                     "owner": "camel-ai",
                     "repo": "camel",
-                    "stars": 17651
+                    "stars": 17652,
+                    "topics": [
+                      "agent",
+                      "ai-societies",
+                      "artificial-intelligence",
+                      "communicative-ai",
+                      "cooperative-ai",
+                      "deep-learning",
+                      "large-language-models",
+                      "multi-agent-systems",
+                      "natural-language-processing"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -273,12 +431,31 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The agent that grows with you",
+                    "homepage": "https://hermes-agent.nousresearch.com",
                     "id": 1024554267,
                     "language": "Python",
-                    "last_commit": "2026-08-28T22:08:10Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T04:39:01Z",
+                    "open_issues": 37198,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 237739
+                    "stars": 237806,
+                    "topics": [
+                      "ai",
+                      "ai-agent",
+                      "ai-agents",
+                      "anthropic",
+                      "chatgpt",
+                      "claude",
+                      "claude-code",
+                      "codex",
+                      "hermes",
+                      "hermes-agent",
+                      "llm",
+                      "nous-research",
+                      "openai"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -289,12 +466,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The agent engineering platform.",
+                    "homepage": "https://docs.langchain.com/langchain/",
                     "id": 552661142,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T23:20:17Z",
+                    "open_issues": 431,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 145207
+                    "stars": 145216,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "ai-agents",
+                      "anthropic",
+                      "chatgpt",
+                      "deepagents",
+                      "enterprise",
+                      "framework",
+                      "gemini",
+                      "generative-ai",
+                      "langchain",
+                      "langgraph",
+                      "llm",
+                      "multiagent",
+                      "open-source",
+                      "openai",
+                      "pydantic",
+                      "python",
+                      "rag",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -305,12 +508,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Framework for orchestrating role-playing, autonomous AI agents. By fostering collaborative intelligence, CrewAI empowers agents to work together seamlessly, tackling complex tasks.",
+                    "homepage": "https://crewai.com",
                     "id": 710601088,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T22:36:31Z",
+                    "open_issues": 767,
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 57760
+                    "stars": 57770,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "ai-agents",
+                      "aiagentframework",
+                      "llms"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -321,12 +535,28 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "LlamaIndex is the leading document agent and OCR platform",
+                    "homepage": "https://developers.llamaindex.ai",
                     "id": 560704231,
                     "language": "Python",
-                    "last_commit": "2026-08-28T15:33:53Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T03:43:47Z",
+                    "open_issues": 670,
                     "owner": "run-llama",
                     "repo": "llama_index",
-                    "stars": 51909
+                    "stars": 51909,
+                    "topics": [
+                      "agents",
+                      "application",
+                      "data",
+                      "fine-tuning",
+                      "framework",
+                      "llamaindex",
+                      "llm",
+                      "multi-agents",
+                      "rag",
+                      "vector-database"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -337,12 +567,36 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Build resilient agents.",
+                    "homepage": "https://docs.langchain.com/oss/python/langgraph/",
                     "id": 676672661,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T16:36:39Z",
+                    "open_issues": 722,
                     "owner": "langchain-ai",
                     "repo": "langgraph",
-                    "stars": 40637
+                    "stars": 40643,
+                    "topics": [
+                      "agents",
+                      "ai",
+                      "ai-agents",
+                      "chatgpt",
+                      "deepagents",
+                      "enterprise",
+                      "framework",
+                      "gemini",
+                      "generative-ai",
+                      "langchain",
+                      "langgraph",
+                      "llm",
+                      "multiagent",
+                      "open-source",
+                      "openai",
+                      "pydantic",
+                      "python",
+                      "rag"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -353,12 +607,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "🤗 smolagents: a barebones library for agents that think in code.",
+                    "homepage": "https://huggingface.co/docs/smolagents",
                     "id": 898968194,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-25T18:36:00Z",
+                    "open_issues": 739,
                     "owner": "huggingface",
                     "repo": "smolagents",
-                    "stars": 29036
+                    "stars": 29038,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -369,12 +628,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Platform for stateful agents: AI with advanced memory that can learn and self-improve over time.",
+                    "homepage": "https://docs.letta.com/",
                     "id": 703411624,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-23T19:05:43Z",
+                    "open_issues": 39,
                     "owner": "letta-ai",
                     "repo": "letta",
-                    "stars": 24480
+                    "stars": 24484,
+                    "topics": [
+                      "ai",
+                      "ai-agents",
+                      "llm",
+                      "llm-agent"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -385,12 +654,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Generative Agents: Interactive Simulacra of Human Behavior",
+                    "homepage": null,
                     "id": 669727723,
                     "language": null,
+                    "license": "Apache-2.0",
                     "last_commit": "2024-08-05T21:38:56Z",
+                    "open_issues": 146,
                     "owner": "joonspk-research",
                     "repo": "generative_agents",
-                    "stars": 22011
+                    "stars": 22013,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -401,12 +675,25 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "How Python does AI. Agents, realtime voice, image generation, embeddings. Every model, every interface, typed end to end.",
+                    "homepage": "https://pydantic.dev/pydantic-ai",
                     "id": 818331198,
                     "language": "Python",
-                    "last_commit": "2026-08-28T23:28:02Z",
+                    "license": "MIT",
+                    "last_commit": "2026-08-29T02:21:33Z",
+                    "open_issues": 749,
                     "owner": "pydantic",
                     "repo": "pydantic-ai",
-                    "stars": 19565
+                    "stars": 19567,
+                    "topics": [
+                      "agent-framework",
+                      "genai",
+                      "harness",
+                      "harness-engineering",
+                      "llm",
+                      "pydantic",
+                      "python"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -417,12 +704,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Flexible and powerful framework for managing multiple AI agents and handling complex conversations",
+                    "homepage": "https://2fastlabs.github.io/agent-squad/",
                     "id": 832647441,
                     "language": "Swift",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-27T21:32:10Z",
+                    "open_issues": 88,
                     "owner": "2FastLabs",
                     "repo": "agent-squad",
-                    "stars": 7751
+                    "stars": 7751,
+                    "topics": [
+                      "agentic-ai",
+                      "agents",
+                      "ai-agents",
+                      "ai-agents-framework",
+                      "anthropic",
+                      "anthropic-claude",
+                      "aws",
+                      "aws-bedrock",
+                      "aws-cdk",
+                      "aws-lambda",
+                      "chatbot",
+                      "framework",
+                      "generative-ai",
+                      "machine-learning",
+                      "openai",
+                      "openaiapi",
+                      "orchestrator",
+                      "python",
+                      "serverless",
+                      "typescript"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -433,12 +746,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "An Open-Ended Embodied Agent with Large Language Models",
+                    "homepage": "https://voyager.minedojo.org/",
                     "id": 645471238,
                     "language": "JavaScript",
+                    "license": "MIT",
                     "last_commit": "2024-04-03T18:51:36Z",
+                    "open_issues": 8,
                     "owner": "MineDojo",
                     "repo": "Voyager",
-                    "stars": 7164
+                    "stars": 7164,
+                    "topics": [
+                      "embodied-learning",
+                      "large-language-models",
+                      "minecraft",
+                      "open-ended-learning"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -449,12 +772,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] Reflexion: Language Agents with Verbal Reinforcement Learning",
+                    "homepage": null,
                     "id": 617325145,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-14T07:54:02Z",
+                    "open_issues": 24,
                     "owner": "noahshinn",
                     "repo": "reflexion",
-                    "stars": 3243
+                    "stars": 3243,
+                    "topics": [
+                      "ai",
+                      "artificial-intelligence",
+                      "llm"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -472,12 +804,21 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A framework for few-shot evaluation of language models.",
+                    "homepage": "https://www.eleuther.ai",
                     "id": 290909192,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-28T19:42:50Z",
+                    "open_issues": 911,
                     "owner": "EleutherAI",
                     "repo": "lm-evaluation-harness",
-                    "stars": 13821
+                    "stars": 13823,
+                    "topics": [
+                      "evaluation-framework",
+                      "language-model",
+                      "transformer"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -488,12 +829,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "A Comprehensive Benchmark to Evaluate LLMs as Agents (ICLR'24)",
+                    "homepage": null,
                     "id": 671759870,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-02-08T17:01:05Z",
+                    "open_issues": 76,
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3701
+                    "stars": 3701,
+                    "topics": [
+                      "chatgpt",
+                      "gpt-4",
+                      "llm",
+                      "llm-agent"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -504,12 +855,32 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2024] OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments",
+                    "homepage": "https://os-world.github.io",
                     "id": 705433049,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-21T09:11:07Z",
+                    "open_issues": 200,
                     "owner": "xlang-ai",
                     "repo": "OSWorld",
-                    "stars": 3112
+                    "stars": 3112,
+                    "topics": [
+                      "agent",
+                      "artificial-intelligence",
+                      "benchmark",
+                      "cli",
+                      "code-generation",
+                      "gui",
+                      "language-model",
+                      "large-action-model",
+                      "llm",
+                      "multimodal",
+                      "natural-language-processing",
+                      "reinforcement-learning",
+                      "rpa",
+                      "vlm"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -520,12 +891,20 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Code repo for \"WebArena: A Realistic Web Environment for Building Autonomous Agents\"",
+                    "homepage": "https://webarena.dev",
                     "id": 670111980,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-11-26T21:16:00Z",
+                    "open_issues": 102,
                     "owner": "web-arena-x",
                     "repo": "webarena",
-                    "stars": 1590
+                    "stars": 1590,
+                    "topics": [
+                      "agent",
+                      "nlp"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -536,12 +915,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source self-improving QA agent for software teams. A test harness with memory. Write tests in natural language for web and mobile. agent-qa learns from every run, adapts to UI changes, and catches regressions before you ship.",
+                    "homepage": "https://vostride.com",
                     "id": 1232322871,
                     "language": "TypeScript",
+                    "license": "NOASSERTION",
                     "last_commit": "2026-08-03T18:44:59Z",
+                    "open_issues": 0,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 903
+                    "stars": 913,
+                    "topics": [
+                      "ai-agents",
+                      "ai-testing",
+                      "anthropic",
+                      "autonomous-agents",
+                      "browser-automation",
+                      "chatgpt",
+                      "claude-code",
+                      "clawdbot",
+                      "codex",
+                      "developer-tools",
+                      "dsh-plugin",
+                      "end-to-end-testing",
+                      "frontend",
+                      "mcp",
+                      "mcp-server",
+                      "mcp-tools",
+                      "model-context-protocol",
+                      "openai",
+                      "playwright",
+                      "qa-automation"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -566,12 +971,38 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Open-source benchmark for browser AI agents on daily tasks.",
+                    "homepage": "https://claw-bench.com",
                     "id": 1206519531,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-08-22T20:48:02Z",
+                    "open_issues": 60,
                     "owner": "TIGER-AI-Lab",
                     "repo": "ClawBench",
-                    "stars": 601
+                    "stars": 603,
+                    "topics": [
+                      "agent-evaluation",
+                      "agentic-ai",
+                      "ai-agent-benchmark",
+                      "ai-agents",
+                      "benchmark",
+                      "browser-agent",
+                      "browser-automation",
+                      "browser-use",
+                      "chrome-agent",
+                      "chrome-extension",
+                      "computer-use",
+                      "dataset",
+                      "evaluation",
+                      "everyday-tasks",
+                      "llm",
+                      "llm-evaluation",
+                      "online-tasks",
+                      "real-world-benchmark",
+                      "web-agent",
+                      "web-agents"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -582,12 +1013,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "The first benchmark for multi-agent orchestration prompt writing.",
+                    "homepage": null,
                     "id": 1257669641,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-07-27T05:24:08Z",
+                    "open_issues": 0,
                     "owner": "WhymustIhaveaname",
                     "repo": "PerspectiveGap",
-                    "stars": 3
+                    "stars": 3,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -605,12 +1041,26 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Gorilla: Training and Evaluating LLMs for Function Calls (Tool Calls)",
+                    "homepage": "https://gorilla.cs.berkeley.edu/",
                     "id": 642608852,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2026-04-13T03:19:45Z",
+                    "open_issues": 276,
                     "owner": "ShishirPatil",
                     "repo": "gorilla",
-                    "stars": 13007
+                    "stars": 13007,
+                    "topics": [
+                      "api",
+                      "api-documentation",
+                      "chatgpt",
+                      "claude-api",
+                      "gpt-4-api",
+                      "llm",
+                      "openai-api",
+                      "openai-functions"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -628,12 +1078,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICLR'24 spotlight] An open platform for training, serving, and evaluating large language model for tool learning.",
+                    "homepage": "https://openbmb.github.io/ToolBench/",
                     "id": 646333922,
                     "language": "Python",
+                    "license": "Apache-2.0",
                     "last_commit": "2025-05-21T15:46:59Z",
+                    "open_issues": 164,
                     "owner": "OpenBMB",
                     "repo": "ToolBench",
-                    "stars": 5732
+                    "stars": 5732,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -644,12 +1099,22 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Official Repo for ICML 2024 paper \"Executable Code Actions Elicit Better LLM Agents\" by Xingyao Wang, Yangyi Chen, Lifan Yuan, Yizhe Zhang, Yunzhu Li, Hao Peng, Heng Ji.",
+                    "homepage": null,
                     "id": 742738613,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-05-23T23:14:59Z",
+                    "open_issues": 15,
                     "owner": "xingyaoww",
                     "repo": "code-act",
-                    "stars": 1701
+                    "stars": 1701,
+                    "topics": [
+                      "llm",
+                      "llm-agent",
+                      "llm-finetuning",
+                      "llm-framework"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -667,12 +1132,23 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[NeurIPS 2023] Tree of Thoughts: Deliberate Problem Solving with Large Language Models",
+                    "homepage": "https://arxiv.org/abs/2305.10601",
                     "id": 642099326,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2025-01-16T20:02:00Z",
+                    "open_issues": 8,
                     "owner": "princeton-nlp",
                     "repo": "tree-of-thought-llm",
-                    "stars": 6056
+                    "stars": 6056,
+                    "topics": [
+                      "large-language-models",
+                      "llm",
+                      "prompting",
+                      "tree-of-thoughts",
+                      "tree-search"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 },
@@ -683,12 +1159,17 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "[ICML 2024] Official repository for \"Language Agent Tree Search Unifies Reasoning Acting and Planning in Language Models\"",
+                    "homepage": "https://arxiv.org/abs/2310.04406",
                     "id": 700717169,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2024-07-30T20:29:27Z",
+                    "open_issues": 8,
                     "owner": "lapisrocks",
                     "repo": "LanguageAgentTreeSearch",
-                    "stars": 855
+                    "stars": 855,
+                    "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -706,12 +1187,35 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
+                    "description": "Claude Code plugin for autonomous AI research — multi-agent loops take a bare topic all the way to running experiments, with no human-written experimental code.",
+                    "homepage": "https://haizhaoyang.github.io/research/autoresearch.html",
                     "id": 1273471983,
                     "language": "Python",
+                    "license": "MIT",
                     "last_commit": "2026-08-24T21:21:53Z",
+                    "open_issues": 1,
                     "owner": "AutoResearch-Factory",
                     "repo": "Agon",
-                    "stars": 44
+                    "stars": 44,
+                    "topics": [
+                      "agent-orchestration",
+                      "agentic-ai",
+                      "ai-agents",
+                      "ai-scientist",
+                      "automated-research",
+                      "autonomous-research",
+                      "autoresearch",
+                      "claude-code",
+                      "claude-code-plugin",
+                      "deep-research",
+                      "literature-review",
+                      "llm-agents",
+                      "multi-agent",
+                      "prompt-economy",
+                      "research-agent",
+                      "research-automation",
+                      "scientific-discovery"
+                    ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
@@ -730,15 +1234,28 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T23:31:32.491Z",
+    "last_updated": "2026-08-29T04:48:12.279Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+papers, 23 systems analyzed.",
+      "homepage": null,
       "id": 1200398425,
       "language": null,
+      "license": "CC-BY-4.0",
       "last_commit": "2026-07-28T06:35:56Z",
+      "open_issues": 0,
       "owner": "Gloriaameng",
       "repo": "Awesome-Agent-Harness",
-      "stars": 342
+      "stars": 342,
+      "topics": [
+        "agent",
+        "agent-framework",
+        "agent-harness",
+        "awesome-list",
+        "harness",
+        "harness-engineering",
+        "llm"
+      ]
     },
     "original_repository_sha": "b73da2455d5169c7805abdd8d97e49ca335b9919",
     "enhanced_repository": "enhansome/enhansome-Awesome-Agent-Harness",
