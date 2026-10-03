@@ -10,7 +10,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenAI Gym: \"OpenAI Gym\". Brockman et al. arXiv 2016. [Paper",
-                  "description": "] [Code]",
+                  "description": "openai/gym",
                   "children": [],
                   "repo_info": {
                     "archived": true,
@@ -31,7 +31,7 @@
                 {
                   "node_type": "item",
                   "title": "Gymnasium: \"Gymnasium: A Standard Interface for Reinforcement Learning Environments\". Towers et al. NeurIPS 2025. [Paper",
-                  "description": "] [Code]",
+                  "description": "Farama-Foundation/Gymnasium",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -44,7 +44,7 @@
                     "open_issues": 104,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12612,
+                    "stars": 12613,
                     "topics": [
                       "api",
                       "gym",
@@ -63,7 +63,7 @@
                 {
                   "node_type": "item",
                   "title": "AutoGPT: \"Auto-GPT: An Autonomous GPT-4 Experiment\". Gravitas et al. GitHub 2023. [Code",
-                  "description": "]",
+                  "description": "Significant-Gravitas/AutoGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -72,8 +72,8 @@
                     "id": 614765452,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-02T19:02:41Z",
-                    "open_issues": 592,
+                    "last_commit": "2026-10-03T04:22:52Z",
+                    "open_issues": 595,
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
                     "stars": 187641,
@@ -96,7 +96,7 @@
                 {
                   "node_type": "item",
                   "title": "LangChain: \"LangChain: Building Applications with LLMs through Composability\". Chase et al. GitHub 2022. [Code",
-                  "description": "]",
+                  "description": "langchain-ai/langchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -105,11 +105,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:46:48Z",
+                    "last_commit": "2026-10-02T22:57:27Z",
                     "open_issues": 606,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 147382,
+                    "stars": 147391,
                     "topics": [
                       "agents",
                       "ai",
@@ -138,7 +138,7 @@
                 {
                   "node_type": "item",
                   "title": "BabyAGI: \"BabyAGI\". Nakajima. GitHub 2023. [Code",
-                  "description": "]",
+                  "description": "yoheinakajima/babyagi",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -159,7 +159,7 @@
                 {
                   "node_type": "item",
                   "title": "ReAct: \"ReAct: Synergizing Reasoning and Acting in Language Models\". Yao et al. ICLR 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "ysymyth/ReAct",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -200,7 +200,7 @@
                 {
                   "node_type": "item",
                   "title": "OpenHands: \"OpenHands: An Open Platform for AI Software Developers as Generalist Agents\". Wang et al. ICLR 2025. [Paper",
-                  "description": "] [Code]",
+                  "description": "OpenHands/OpenHands",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -209,11 +209,11 @@
                     "id": 771302083,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T19:05:18Z",
-                    "open_issues": 860,
+                    "last_commit": "2026-10-02T21:53:23Z",
+                    "open_issues": 866,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 89806,
+                    "stars": 89830,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -231,7 +231,7 @@
                 {
                   "node_type": "item",
                   "title": "SWE-agent: \"SWE-agent: Agent-Computer Interfaces Enable Automated Software Engineering\". Yang et al. NeurIPS 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "SWE-agent/SWE-agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -244,7 +244,7 @@
                     "open_issues": 135,
                     "owner": "SWE-agent",
                     "repo": "SWE-agent",
-                    "stars": 20464,
+                    "stars": 20469,
                     "topics": [
                       "agent",
                       "agent-based-model",
@@ -260,7 +260,7 @@
                 {
                   "node_type": "item",
                   "title": "AIOS: \"AIOS: LLM Agent Operating System\". Mei et al. COLM 2025. [Paper",
-                  "description": "] [Code]",
+                  "description": "agiresearch/AIOS",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -273,7 +273,7 @@
                     "open_issues": 65,
                     "owner": "agiresearch",
                     "repo": "AIOS",
-                    "stars": 6441,
+                    "stars": 6442,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -281,7 +281,7 @@
                 {
                   "node_type": "item",
                   "title": "AOHP: \"AOHP: An Open-Source OS-Level Agent Harness for Personalized, Efficient and Secure Interaction\". arXiv 2026. [Paper",
-                  "description": "] [Code]",
+                  "description": "aohp-os/aohp",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -309,7 +309,7 @@
                 {
                   "node_type": "item",
                   "title": "MetaGPT: \"MetaGPT: Meta Programming for a Multi-Agent Collaborative Framework\". Hong et al. ICLR 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "FoundationAgents/MetaGPT",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -319,10 +319,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
-                    "open_issues": 145,
+                    "open_issues": 144,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70720,
+                    "stars": 70719,
                     "topics": [
                       "agent",
                       "gpt",
@@ -336,7 +336,7 @@
                 {
                   "node_type": "item",
                   "title": "AutoGen: \"AutoGen: Enabling Next-Gen LLM Applications via Multi-Agent Conversation\". Wu et al. arXiv 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "microsoft/autogen",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -346,7 +346,7 @@
                     "language": "Python",
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-04-15T11:59:09Z",
-                    "open_issues": 1110,
+                    "open_issues": 1109,
                     "owner": "microsoft",
                     "repo": "autogen",
                     "stars": 61249,
@@ -368,7 +368,7 @@
                 {
                   "node_type": "item",
                   "title": "ChatDev: \"ChatDev: Communicative Agents for Software Development\". Qian et al. ACL 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "OpenBMB/ChatDev",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -389,7 +389,7 @@
                 {
                   "node_type": "item",
                   "title": "CAMEL: \"CAMEL: Communicative Agents for 'Mind' Exploration of Large Language Model Society\". Li et al. NeurIPS 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "camel-ai/camel",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -402,7 +402,7 @@
                     "open_issues": 527,
                     "owner": "camel-ai",
                     "repo": "camel",
-                    "stars": 17803,
+                    "stars": 17805,
                     "topics": [
                       "agent",
                       "ai-societies",
@@ -427,7 +427,7 @@
                 {
                   "node_type": "item",
                   "title": "Hermes Agent: \"Hermes Agent: Self-Improving AI Agent Framework\". Nous Research. GitHub 2026. [Code",
-                  "description": "] [Docs]",
+                  "description": "NousResearch/hermes-agent",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -436,11 +436,11 @@
                     "id": 1024554267,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T19:11:06Z",
-                    "open_issues": 48291,
+                    "last_commit": "2026-10-03T04:22:56Z",
+                    "open_issues": 47885,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 250732,
+                    "stars": 250803,
                     "topics": [
                       "ai",
                       "ai-agent",
@@ -462,7 +462,7 @@
                 {
                   "node_type": "item",
                   "title": "LangChain: \"LangChain: Building Applications with LLMs through Composability\". Chase et al. GitHub 2022. [Code",
-                  "description": "]",
+                  "description": "langchain-ai/langchain",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -471,11 +471,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:46:48Z",
+                    "last_commit": "2026-10-02T22:57:27Z",
                     "open_issues": 606,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 147382,
+                    "stars": 147391,
                     "topics": [
                       "agents",
                       "ai",
@@ -504,7 +504,7 @@
                 {
                   "node_type": "item",
                   "title": "CrewAI: \"CrewAI: Framework for Orchestrating Role-Playing, Autonomous AI Agents\". Moura et al. GitHub 2024. [Code",
-                  "description": "]",
+                  "description": "crewAIInc/crewAI",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -513,11 +513,11 @@
                     "id": 710601088,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-01T19:47:51Z",
+                    "last_commit": "2026-10-03T00:03:55Z",
                     "open_issues": 522,
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 59286,
+                    "stars": 59293,
                     "topics": [
                       "agents",
                       "ai",
@@ -531,7 +531,7 @@
                 {
                   "node_type": "item",
                   "title": "LlamaIndex: \"LlamaIndex: A Data Framework for LLM Applications\". Liu et al. GitHub 2022. [Code",
-                  "description": "]",
+                  "description": "run-llama/llama_index",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -541,10 +541,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-01T18:39:47Z",
-                    "open_issues": 847,
+                    "open_issues": 848,
                     "owner": "run-llama",
                     "repo": "llama_index",
-                    "stars": 52385,
+                    "stars": 52388,
                     "topics": [
                       "agents",
                       "application",
@@ -563,7 +563,7 @@
                 {
                   "node_type": "item",
                   "title": "LangGraph: \"LangGraph: Build Resilient Language Agents as Graphs\". LangChain team. GitHub 2024. [Code",
-                  "description": "]",
+                  "description": "langchain-ai/langgraph",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -572,11 +572,11 @@
                     "id": 676672661,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T15:55:40Z",
+                    "last_commit": "2026-10-03T02:08:21Z",
                     "open_issues": 817,
                     "owner": "langchain-ai",
                     "repo": "langgraph",
-                    "stars": 42619,
+                    "stars": 42641,
                     "topics": [
                       "agents",
                       "ai",
@@ -603,7 +603,7 @@
                 {
                   "node_type": "item",
                   "title": "smolagents: \"smolagents: A Smol Library to Build Great Agentic Systems\". Roucher et al. GitHub 2025. [Code",
-                  "description": "]",
+                  "description": "huggingface/smolagents",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -616,7 +616,7 @@
                     "open_issues": 875,
                     "owner": "huggingface",
                     "repo": "smolagents",
-                    "stars": 29651,
+                    "stars": 29656,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -624,7 +624,7 @@
                 {
                   "node_type": "item",
                   "title": "MemGPT: \"MemGPT: Towards LLMs as Operating Systems\". Packer et al. NeurIPS 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "letta-ai/letta",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -637,7 +637,7 @@
                     "open_issues": 0,
                     "owner": "letta-ai",
                     "repo": "letta",
-                    "stars": 25005,
+                    "stars": 25007,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -650,7 +650,7 @@
                 {
                   "node_type": "item",
                   "title": "Generative Agents: \"Generative Agents: Interactive Simulacra of Human Behavior\". Park et al. UIST 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "joonspk-research/generative_agents",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -663,7 +663,7 @@
                     "open_issues": 146,
                     "owner": "joonspk-research",
                     "repo": "generative_agents",
-                    "stars": 22184,
+                    "stars": 22185,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -671,7 +671,7 @@
                 {
                   "node_type": "item",
                   "title": "PydanticAI: \"PydanticAI: Agent Framework for Production-Grade GenAI Applications\". Pydantic Team. GitHub 2024. [Code",
-                  "description": "]",
+                  "description": "pydantic/pydantic-ai",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -680,11 +680,11 @@
                     "id": 818331198,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-02T18:54:05Z",
-                    "open_issues": 1379,
+                    "last_commit": "2026-10-03T04:00:17Z",
+                    "open_issues": 1361,
                     "owner": "pydantic",
                     "repo": "pydantic-ai",
-                    "stars": 20360,
+                    "stars": 20371,
                     "topics": [
                       "agent-framework",
                       "genai",
@@ -700,7 +700,7 @@
                 {
                   "node_type": "item",
                   "title": "AWS Multi-Agent Orchestrator: \"Multi-Agent Orchestrator\". Amazon Web Services. GitHub 2024. [Code",
-                  "description": "]",
+                  "description": "2FastLabs/agent-squad",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -709,11 +709,11 @@
                     "id": 832647441,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-01T20:03:25Z",
-                    "open_issues": 116,
+                    "last_commit": "2026-10-02T22:49:30Z",
+                    "open_issues": 114,
                     "owner": "2FastLabs",
                     "repo": "agent-squad",
-                    "stars": 7779,
+                    "stars": 7780,
                     "topics": [
                       "agentic-ai",
                       "agents",
@@ -742,7 +742,7 @@
                 {
                   "node_type": "item",
                   "title": "Voyager: \"Voyager: An Open-Ended Embodied Agent with Large Language Models\". Wang et al. arXiv 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "MineDojo/Voyager",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -755,7 +755,7 @@
                     "open_issues": 7,
                     "owner": "MineDojo",
                     "repo": "Voyager",
-                    "stars": 7237,
+                    "stars": 7238,
                     "topics": [
                       "embodied-learning",
                       "large-language-models",
@@ -768,7 +768,7 @@
                 {
                   "node_type": "item",
                   "title": "Reflexion: \"Reflexion: Language Agents with Verbal Reinforcement Learning\". Shinn et al. NeurIPS 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "noahshinn/reflexion",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -781,7 +781,7 @@
                     "open_issues": 24,
                     "owner": "noahshinn",
                     "repo": "reflexion",
-                    "stars": 3296,
+                    "stars": 3297,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -800,7 +800,7 @@
                 {
                   "node_type": "item",
                   "title": "lm-evaluation-harness: \"lm-evaluation-harness\". Gao et al. GitHub 2021. [Code",
-                  "description": "]",
+                  "description": "EleutherAI/lm-evaluation-harness",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -813,7 +813,7 @@
                     "open_issues": 1105,
                     "owner": "EleutherAI",
                     "repo": "lm-evaluation-harness",
-                    "stars": 14119,
+                    "stars": 14122,
                     "topics": [
                       "evaluation-framework",
                       "language-model",
@@ -825,7 +825,7 @@
                 {
                   "node_type": "item",
                   "title": "AgentBench: \"AgentBench: Evaluating LLMs as Agents\". Liu et al. ICLR 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "THUDM/AgentBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -851,7 +851,7 @@
                 {
                   "node_type": "item",
                   "title": "OSWorld: \"OSWorld: Benchmarking Multimodal Agents for Open-Ended Tasks in Real Computer Environments\". Xie et al. NeurIPS 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "xlang-ai/OSWorld",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -861,7 +861,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-09-14T16:08:47Z",
-                    "open_issues": 211,
+                    "open_issues": 212,
                     "owner": "xlang-ai",
                     "repo": "OSWorld",
                     "stars": 3171,
@@ -887,7 +887,7 @@
                 {
                   "node_type": "item",
                   "title": "WebArena: \"WebArena: A Realistic Web Environment for Building Autonomous Agents\". Zhou et al. ICLR 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "web-arena-x/webarena",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -911,7 +911,7 @@
                 {
                   "node_type": "item",
                   "title": "agent-qa: \"agent-qa: Self-Improving QA Harness with Memory\". Vostride. GitHub 2026. [Code",
-                  "description": "]",
+                  "description": "vostride/agent-qa",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -980,7 +980,7 @@
                     "open_issues": 52,
                     "owner": "TIGER-AI-Lab",
                     "repo": "ClawBench",
-                    "stars": 917,
+                    "stars": 921,
                     "topics": [
                       "agent-evaluation",
                       "agentic-ai",
@@ -1009,7 +1009,7 @@
                 {
                   "node_type": "item",
                   "title": "PerspectiveGap†: \"PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting\". Sun et al. arXiv 2026. [Paper",
-                  "description": "] [Code]",
+                  "description": "WhymustIhaveaname/PerspectiveGap",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1037,7 +1037,7 @@
                 {
                   "node_type": "item",
                   "title": "Gorilla: \"Gorilla: Large Language Model Connected with Massive APIs\". Patil et al. NeurIPS 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "ShishirPatil/gorilla",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1047,7 +1047,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-04-13T03:19:45Z",
-                    "open_issues": 287,
+                    "open_issues": 288,
                     "owner": "ShishirPatil",
                     "repo": "gorilla",
                     "stars": 13041,
@@ -1074,7 +1074,7 @@
                 {
                   "node_type": "item",
                   "title": "ToolLLM: \"ToolLLM: Facilitating Large Language Models to Master 16000+ Real-world APIs\". Qin et al. ICLR 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "OpenBMB/ToolBench",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1095,7 +1095,7 @@
                 {
                   "node_type": "item",
                   "title": "CodeAct: \"Executable Code Actions Elicit Better LLM Agents\". Wang et al. ICML 2024. [Paper",
-                  "description": "] [Code]",
+                  "description": "xingyaoww/code-act",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1128,7 +1128,7 @@
                 {
                   "node_type": "item",
                   "title": "Tree of Thoughts: \"Tree of Thoughts: Deliberate Problem Solving with Large Language Models\". Yao et al. NeurIPS 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "princeton-nlp/tree-of-thought-llm",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1141,7 +1141,7 @@
                     "open_issues": 8,
                     "owner": "princeton-nlp",
                     "repo": "tree-of-thought-llm",
-                    "stars": 6075,
+                    "stars": 6076,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -1155,7 +1155,7 @@
                 {
                   "node_type": "item",
                   "title": "LATS: \"Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models\". Zhou et al. arXiv 2023. [Paper",
-                  "description": "] [Code]",
+                  "description": "andyz245/LanguageAgentTreeSearch",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1183,7 +1183,7 @@
                 {
                   "node_type": "item",
                   "title": "Agon†: \"Agon: An Autonomous Large-Scale Omnidisciplinary Research System Built on Prompt Economy\". Sun et al. arXiv 2026. [Paper",
-                  "description": "] [Code]",
+                  "description": "AutoResearch-Factory/Agon",
                   "children": [],
                   "repo_info": {
                     "archived": false,
@@ -1234,7 +1234,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T19:13:07.201Z",
+    "last_updated": "2026-10-03T04:23:59.789Z",
     "original_repository_info": {
       "archived": false,
       "description": "Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+papers, 23 systems analyzed.",
