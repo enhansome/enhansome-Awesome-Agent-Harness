@@ -23,7 +23,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37245,
+                    "stars": 37244,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -41,10 +41,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-10T14:29:03Z",
-                    "open_issues": 106,
+                    "open_issues": 108,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12653,
+                    "stars": 12658,
                     "topics": [
                       "api",
                       "gym",
@@ -72,11 +72,11 @@
                     "id": 614765452,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-11T18:45:11Z",
-                    "open_issues": 712,
+                    "last_commit": "2026-10-12T22:04:59Z",
+                    "open_issues": 707,
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
-                    "stars": 187521,
+                    "stars": 187538,
                     "topics": [
                       "agentic-ai",
                       "agents",
@@ -105,11 +105,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T09:01:17Z",
-                    "open_issues": 647,
+                    "last_commit": "2026-10-12T19:28:40Z",
+                    "open_issues": 640,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 147619,
+                    "stars": 147706,
                     "topics": [
                       "agents",
                       "ai",
@@ -151,7 +151,7 @@
                     "open_issues": 32,
                     "owner": "yoheinakajima",
                     "repo": "babyagi",
-                    "stars": 22355,
+                    "stars": 22356,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -172,7 +172,7 @@
                     "open_issues": 5,
                     "owner": "ysymyth",
                     "repo": "ReAct",
-                    "stars": 4216,
+                    "stars": 4218,
                     "topics": [
                       "decision-making",
                       "large-language-models",
@@ -199,6 +199,53 @@
               "children": [
                 {
                   "node_type": "item",
+                  "title": "DeepSeek Harness: \"DeepSeek Harness: Everything is a Plugin\". DeepSeek-AI. GitHub 2026. [Code",
+                  "description": "deepseek-ai/deepseek-harness",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "DeepSeek Harness: Everything is a Plugin.",
+                    "homepage": "https://deepseek.com/harness",
+                    "id": 1333065091,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-09T10:04:06Z",
+                    "open_issues": 0,
+                    "owner": "deepseek-ai",
+                    "repo": "deepseek-harness",
+                    "stars": 248196,
+                    "topics": [
+                      "ai-agents",
+                      "cordis",
+                      "dsh",
+                      "dsh-plugin"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Codex: \"Codex: Lightweight coding agent that runs in your terminal\". OpenAI. GitHub. [Code",
+                  "description": "openai/codex",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Lightweight coding agent that runs in your terminal",
+                    "homepage": null,
+                    "id": 965415649,
+                    "language": "Rust",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-12T21:42:43Z",
+                    "open_issues": 22218,
+                    "owner": "openai",
+                    "repo": "codex",
+                    "stars": 128834,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
+                },
+                {
+                  "node_type": "item",
                   "title": "OpenHands: \"OpenHands: An Open Platform for AI Software Developers as Generalist Agents\". Wang et al. ICLR 2025. [Paper",
                   "description": "OpenHands/OpenHands",
                   "children": [],
@@ -209,11 +256,11 @@
                     "id": 771302083,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T18:17:52Z",
-                    "open_issues": 955,
+                    "last_commit": "2026-10-12T21:39:51Z",
+                    "open_issues": 958,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 90598,
+                    "stars": 90745,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -241,10 +288,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-06T00:34:40Z",
-                    "open_issues": 157,
+                    "open_issues": 158,
                     "owner": "SWE-agent",
                     "repo": "SWE-agent",
-                    "stars": 20524,
+                    "stars": 20539,
                     "topics": [
                       "agent",
                       "agent-based-model",
@@ -273,10 +320,52 @@
                     "open_issues": 65,
                     "owner": "agiresearch",
                     "repo": "AIOS",
-                    "stars": 6465,
+                    "stars": 6469,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "SandBase Harness: \"SandBase Harness: Local-first, self-hosted AI agent runtime and MCP bridge\". SandBase AI. GitHub 2026. [Code",
+                  "description": "sandbaseai/sandbase-harness",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Local-first, self-hosted AI agent runtime and MCP bridge with sandboxed sessions, memory, credentials, audit/replay, and a local Console.",
+                    "homepage": "https://github.com/sandbaseai/sandbase-harness/blob/main/docs/installation.md",
+                    "id": 1297278222,
+                    "language": "TypeScript",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-12T04:02:31Z",
+                    "open_issues": 13,
+                    "owner": "sandbaseai",
+                    "repo": "sandbase-harness",
+                    "stars": 707,
+                    "topics": [
+                      "agent-harness",
+                      "agent-observability",
+                      "agent-plugin",
+                      "agent-runtime",
+                      "agent-sandbox",
+                      "ai-agents",
+                      "ai-infrastructure",
+                      "audit-logging",
+                      "deepseek-harness",
+                      "devops",
+                      "docker",
+                      "dsh-plugin",
+                      "harness-engineering",
+                      "kubernetes",
+                      "local-first",
+                      "mcp-gateway",
+                      "mcp-server",
+                      "model-context-protocol",
+                      "sandboxed-execution",
+                      "self-hosted"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
                 },
                 {
                   "node_type": "item",
@@ -294,13 +383,13 @@
                     "open_issues": 1,
                     "owner": "aohp-os",
                     "repo": "aohp",
-                    "stars": 155,
+                    "stars": 156,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
               ],
-              "description": null,
+              "description": "Codex — an integrated execution harness for software engineering. Codex connects repository exploration, editing, command execution, and verification through a shared agent runtime. Its execution loop (E) coordinates model requests and tool results; the tool registry (T) dispatches built-in tools and MCP integrations; context compaction (C) manages growing conversation histories; and persisted rollouts and resumable threads (S) carry work across sessions. Tool orchestration brings approval decisions, sandbox selection, and retry handling into the execution path (L), while structured events and tool traces support inspection and evaluation (V). This makes Codex a representative example of how the harness turns a model's coding ability into a sustained development workflow. [Core] [Tool Orchestration]\nDeepSeek Harness — composable runtime governance through plugins. DeepSeek Harness makes the model adapter, agent loop, tool registry, session log, and surrounding capabilities replaceable plugins built on Cordis. Profiles and bundles assemble these components into an executable system. The default loop (E) coordinates turns and steps, typed tools (T) pass through validation and pre/post-execution hooks (L), and the durable session log (S) supplies the history from which model context is projected. Prompt assembly and compaction plugins govern that context (C); typed session events and telemetry expose execution traces (V). Its architectural contribution to the survey is the explicit separation of governance functions from their implementations: developers can change the loop, context policy, or tool behavior by composing plugins around shared interfaces. [Architecture] [Tools] [Compaction]",
               "node_type": "group",
               "title": "Full-Stack Harnesses"
             },
@@ -322,7 +411,7 @@
                     "open_issues": 141,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 70800,
+                    "stars": 70823,
                     "topics": [
                       "agent",
                       "gpt",
@@ -346,10 +435,10 @@
                     "language": "Python",
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-04-15T11:59:09Z",
-                    "open_issues": 1104,
+                    "open_issues": 1103,
                     "owner": "microsoft",
                     "repo": "autogen",
-                    "stars": 61353,
+                    "stars": 61375,
                     "topics": [
                       "agentic",
                       "agentic-agi",
@@ -381,7 +470,7 @@
                     "open_issues": 82,
                     "owner": "OpenBMB",
                     "repo": "ChatDev",
-                    "stars": 34480,
+                    "stars": 34497,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -398,11 +487,11 @@
                     "id": 615510678,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-05T11:43:27Z",
-                    "open_issues": 532,
+                    "last_commit": "2026-10-12T09:06:03Z",
+                    "open_issues": 536,
                     "owner": "camel-ai",
                     "repo": "camel",
-                    "stars": 17868,
+                    "stars": 17873,
                     "topics": [
                       "agent",
                       "ai-societies",
@@ -416,6 +505,46 @@
                     ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Raven: \"Raven: The Harness of Harnesses for Composable Agentic Intelligence\". EverMind AI. Technical Report 2026. [Paper",
+                  "description": "EverMind-AI/Raven",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "The Harness of Harnesses • built for RSI: a trusted, persistent, self-evolving multi-agent ecosystem for all-domain collaboration.",
+                    "homepage": "https://raven.evermind.ai",
+                    "id": 1245465729,
+                    "language": "Python",
+                    "license": "Apache-2.0",
+                    "last_commit": "2026-10-12T17:10:08Z",
+                    "open_issues": 74,
+                    "owner": "EverMind-AI",
+                    "repo": "Raven",
+                    "stars": 5406,
+                    "topics": [
+                      "ai",
+                      "ai-agents",
+                      "anthropic",
+                      "chatgpt",
+                      "claude",
+                      "codex",
+                      "evermind",
+                      "hermes",
+                      "hermes-agent",
+                      "llm",
+                      "openai",
+                      "openclaw",
+                      "openhuman",
+                      "recursive-self-improvement",
+                      "rsi",
+                      "rsi-ai",
+                      "self-evolving",
+                      "self-improving"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
                 }
               ],
               "description": null,
@@ -436,11 +565,11 @@
                     "id": 1024554267,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T18:43:25Z",
-                    "open_issues": 47932,
+                    "last_commit": "2026-10-12T22:01:54Z",
+                    "open_issues": 48135,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 252758,
+                    "stars": 253109,
                     "topics": [
                       "ai",
                       "ai-agent",
@@ -471,11 +600,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T09:01:17Z",
-                    "open_issues": 647,
+                    "last_commit": "2026-10-12T19:28:40Z",
+                    "open_issues": 640,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 147619,
+                    "stars": 147706,
                     "topics": [
                       "agents",
                       "ai",
@@ -513,11 +642,11 @@
                     "id": 710601088,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-10T23:37:22Z",
-                    "open_issues": 634,
+                    "last_commit": "2026-10-12T21:54:44Z",
+                    "open_issues": 659,
                     "owner": "crewAIInc",
                     "repo": "crewAI",
-                    "stars": 59571,
+                    "stars": 59617,
                     "topics": [
                       "agents",
                       "ai",
@@ -540,11 +669,11 @@
                     "id": 560704231,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-08T20:45:50Z",
-                    "open_issues": 907,
+                    "last_commit": "2026-10-12T19:28:17Z",
+                    "open_issues": 905,
                     "owner": "run-llama",
                     "repo": "llama_index",
-                    "stars": 52464,
+                    "stars": 52468,
                     "topics": [
                       "agents",
                       "application",
@@ -572,11 +701,11 @@
                     "id": 676672661,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T18:36:49Z",
-                    "open_issues": 801,
+                    "last_commit": "2026-10-12T20:33:47Z",
+                    "open_issues": 806,
                     "owner": "langchain-ai",
                     "repo": "langgraph",
-                    "stars": 43070,
+                    "stars": 43149,
                     "topics": [
                       "agents",
                       "ai",
@@ -613,10 +742,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-06T18:35:07Z",
-                    "open_issues": 907,
+                    "open_issues": 924,
                     "owner": "huggingface",
                     "repo": "smolagents",
-                    "stars": 29782,
+                    "stars": 29800,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -637,7 +766,7 @@
                     "open_issues": 0,
                     "owner": "letta-ai",
                     "repo": "letta",
-                    "stars": 25104,
+                    "stars": 25117,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -663,7 +792,7 @@
                     "open_issues": 146,
                     "owner": "joonspk-research",
                     "repo": "generative_agents",
-                    "stars": 22215,
+                    "stars": 22212,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -680,11 +809,11 @@
                     "id": 818331198,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-11T05:08:41Z",
-                    "open_issues": 1392,
+                    "last_commit": "2026-10-12T21:55:45Z",
+                    "open_issues": 1378,
                     "owner": "pydantic",
                     "repo": "pydantic-ai",
-                    "stars": 20550,
+                    "stars": 20582,
                     "topics": [
                       "agent-framework",
                       "genai",
@@ -755,7 +884,7 @@
                     "open_issues": 7,
                     "owner": "MineDojo",
                     "repo": "Voyager",
-                    "stars": 7258,
+                    "stars": 7257,
                     "topics": [
                       "embodied-learning",
                       "large-language-models",
@@ -781,7 +910,7 @@
                     "open_issues": 24,
                     "owner": "noahshinn",
                     "repo": "reflexion",
-                    "stars": 3301,
+                    "stars": 3306,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -789,6 +918,48 @@
                     ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "YYLO: \"YYLO: AI Coding-Agent Orchestration CLI\". yylo-dev. GitHub 2026. [Code",
+                  "description": "yylo-dev/yylo",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "YYLO (why-lo): AI coding-agent orchestration CLI with equivalent yylo and yy launchers.",
+                    "homepage": "https://yylo.dev",
+                    "id": 1129206072,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2026-10-09T14:39:36Z",
+                    "open_issues": 11,
+                    "owner": "yylo-dev",
+                    "repo": "yylo",
+                    "stars": 63,
+                    "topics": [
+                      "agentic-coding-approved",
+                      "agentic-coding-rules",
+                      "agentic-coding-tool",
+                      "agentic-coding-tools",
+                      "agentic-coding-workflow",
+                      "ai-agent",
+                      "ai-native-development",
+                      "aider",
+                      "autonomous-agents",
+                      "claude-code",
+                      "coding-agent",
+                      "developer-tools",
+                      "developer-tools-ai-agent",
+                      "developer-tools-productivity",
+                      "git-workflow",
+                      "local-first",
+                      "pi-agent",
+                      "ralph-loop",
+                      "ralph-wiggum",
+                      "yylo"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
                 }
               ],
               "description": null,
@@ -810,10 +981,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-14T10:51:06Z",
-                    "open_issues": 1153,
+                    "open_issues": 1165,
                     "owner": "EleutherAI",
                     "repo": "lm-evaluation-harness",
-                    "stars": 14189,
+                    "stars": 14197,
                     "topics": [
                       "evaluation-framework",
                       "language-model",
@@ -838,7 +1009,7 @@
                     "open_issues": 80,
                     "owner": "THUDM",
                     "repo": "AgentBench",
-                    "stars": 3766,
+                    "stars": 3767,
                     "topics": [
                       "chatgpt",
                       "gpt-4",
@@ -864,7 +1035,7 @@
                     "open_issues": 215,
                     "owner": "xlang-ai",
                     "repo": "OSWorld",
-                    "stars": 3196,
+                    "stars": 3199,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -900,7 +1071,7 @@
                     "open_issues": 104,
                     "owner": "web-arena-x",
                     "repo": "webarena",
-                    "stars": 1623,
+                    "stars": 1625,
                     "topics": [
                       "agent",
                       "nlp"
@@ -924,7 +1095,7 @@
                     "open_issues": 0,
                     "owner": "vostride",
                     "repo": "agent-qa",
-                    "stars": 904,
+                    "stars": 903,
                     "topics": [
                       "ai-agents",
                       "ai-testing",
@@ -949,6 +1120,32 @@
                     ]
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "YYLO Benchmark: \"YYLO Benchmark: Longitudinal Evaluation and Immutable Evidence for Agent Runs\". yylo-dev. GitHub 2026. [Code",
+                  "description": "yylo-dev/yylo-benchmark",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "YYLO Benchmark: longitudinal evaluation and immutable evidence for agent runs.",
+                    "homepage": "https://yylo.dev",
+                    "id": 1336585902,
+                    "language": "TypeScript",
+                    "license": "MIT",
+                    "last_commit": "2026-10-03T18:33:21Z",
+                    "open_issues": 3,
+                    "owner": "yylo-dev",
+                    "repo": "yylo-benchmark",
+                    "stars": 1,
+                    "topics": [
+                      "ai-agents",
+                      "benchmark",
+                      "evaluation",
+                      "yylo"
+                    ]
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
                 }
               ],
               "description": null,
@@ -976,11 +1173,11 @@
                     "id": 1206519531,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-11T10:38:15Z",
+                    "last_commit": "2026-10-12T01:19:23Z",
                     "open_issues": 54,
                     "owner": "TIGER-AI-Lab",
                     "repo": "ClawBench",
-                    "stars": 1009,
+                    "stars": 1022,
                     "topics": [
                       "agent-evaluation",
                       "agentic-ai",
@@ -1084,7 +1281,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2025-05-21T15:46:59Z",
-                    "open_issues": 167,
+                    "open_issues": 168,
                     "owner": "OpenBMB",
                     "repo": "ToolBench",
                     "stars": 5751,
@@ -1172,6 +1369,27 @@
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Steer, Don't Solve†: \"Steer, Don't Solve: Training Small Critic Models for Large Code Agents\". Gandhi et al. arXiv 2026. [Paper",
+                  "description": "shubhamrgandhi/critic-training",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 1141614737,
+                    "language": "Python",
+                    "license": null,
+                    "last_commit": "2026-09-03T08:01:11Z",
+                    "open_issues": 0,
+                    "owner": "shubhamrgandhi",
+                    "repo": "critic-training",
+                    "stars": 2,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
                 }
               ],
               "description": "Key numbers: SWE-agent ACI study shows interface design outweighs model capability as the primary performance determinant. LATS integrates MCTS with language model feedback for state-space search. Plan-on-Graph enables adaptive self-correcting planning on knowledge graphs through guidance, memory, and reflection mechanisms.",
@@ -1223,18 +1441,83 @@
               "description": "Key numbers: AgencyBench — agents achieve 48.4% success on native SDK harness vs substantially lower on independent harnesses, demonstrating tight harness-agent coupling. Byzantine fault tolerance remains an open problem for adversarial multi-agent settings.",
               "node_type": "group",
               "title": "Multi-Agent Coordination"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Strong-Weak Collaboration: \"An Empirical Study on Strong-Weak Model Collaboration for Repo-level Code Generation\". Gandhi et al. EMNLP 2025. [Paper",
+                  "description": "shubhamrgandhi/codegen-strong-weak-collab",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": null,
+                    "homepage": null,
+                    "id": 954974026,
+                    "language": "Python",
+                    "license": "MIT",
+                    "last_commit": "2025-05-27T18:17:03Z",
+                    "open_issues": 0,
+                    "owner": "shubhamrgandhi",
+                    "repo": "codegen-strong-weak-collab",
+                    "stars": 3,
+                    "topics": []
+                  },
+                  "first_seen": "2026-10-12T22:06:09.779Z"
+                }
+              ],
+              "description": "Key numbers: OpenRouter reports 13T tokens/week (Feb 2026), doubling every 4 weeks; AgencyBench measures 1M tokens/task average; 1000× agent compute growth projected by 2027; AIOS achieves 2.1× throughput speedup via proper agent scheduling.",
+              "node_type": "group",
+              "title": "Compute Economics"
             }
           ],
           "description": "Scope: We identify nine open research problems where current harness infrastructure provides partial solutions but no production-grade, generalizable frameworks. Each challenge represents a gap between what academic prototypes demonstrate and what deployed systems require.\nEvaluation criteria: For each challenge, we assess: (1) Academic coverage — peer-reviewed solutions, if any; (2) Production maturity — whether any deployed system has solved it at scale; (3) Blocking severity — whether the unsolved problem prevents deployment or merely limits performance.\nCross-cutting theme: Most challenges stem from the composition problem — individual components (security sandboxes, memory stores, evaluation metrics) work in isolation, but combining them into a coherent harness surfaces emergent failures. Formal verification, portability testing, and protocol interoperability all require compositional reasoning that current research has not addressed.",
           "node_type": "group",
           "title": "Technical Challenges"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AutoRef†: \"AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation\". Oshima et al. arXiv 2026. [Paper",
+              "description": "KuOnoda/AutoRef",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "description": "Official implementation of “Harness Optimization for Agentic Multi-Reference Image Generation”",
+                "homepage": null,
+                "id": 1387117679,
+                "language": "Python",
+                "license": "MIT",
+                "last_commit": "2026-09-29T15:52:08Z",
+                "open_issues": 0,
+                "owner": "KuOnoda",
+                "repo": "AutoRef",
+                "stars": 25,
+                "topics": [
+                  "ai-agent",
+                  "harness",
+                  "harness-engineering",
+                  "image-generation",
+                  "multimodel",
+                  "rsi",
+                  "self-evolving",
+                  "text-to-image"
+                ]
+              },
+              "first_seen": "2026-10-12T22:06:09.779Z"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Emerging Topics"
         }
       ],
       "title": "Paper List"
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T18:48:42.443Z",
+    "last_updated": "2026-10-12T22:06:09.779Z",
     "original_repository_info": {
       "archived": false,
       "description": "Agent Harness for Large Language Model Agents: A Survey. Survey on LLM agentharnessengineering with a taxonomy. 110+papers, 23 systems analyzed.",
@@ -1242,11 +1525,11 @@
       "id": 1200398425,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-07-28T06:35:56Z",
-      "open_issues": 11,
+      "last_commit": "2026-10-12T11:54:17Z",
+      "open_issues": 0,
       "owner": "Gloriaameng",
       "repo": "Awesome-Agent-Harness",
-      "stars": 367,
+      "stars": 369,
       "topics": [
         "agent",
         "agent-framework",
@@ -1257,7 +1540,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "b73da2455d5169c7805abdd8d97e49ca335b9919",
+    "original_repository_sha": "3be13b047f80cb6c641fd8791f0303cad697b8ee",
     "enhanced_repository": "enhansome/enhansome-Awesome-Agent-Harness",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Harness for Large Language Model Agents: A Survey with stars"
