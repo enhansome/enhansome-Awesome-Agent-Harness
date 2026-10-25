@@ -1,7 +1,7 @@
 {
   "items": [
     {
-      "description": "The system landscape moves from depth to breadth: four anchor cases expose the runtime in detail, the evidence matrix applies one comparison scheme, and the directory preserves the wider ecosystem of systems, substrates, modules, and evaluation infrastructure. The comparison set is evidence-driven and open-ended; 34 is the current result of the inclusion rule, not a target or a claim of completeness. Product form is not an exclusion rule: workplace and personal agents belong when their runtime architecture is documented well enough to assess.",
+      "description": "The system landscape moves from depth to breadth: four anchor cases expose the runtime in detail, the evidence matrix applies one comparison scheme, and the directory preserves the wider ecosystem of systems, substrates, modules, and evaluation infrastructure. The comparison set is evidence-driven and open-ended; 34 is the current result of the inclusion rule, not a target or a claim of completeness. Product form is not an exclusion rule: workplace and personal agents belong when their runtime architecture is documented well enough to assess.\nThe 34-system comparison set uses five reporting groups (4/10/5/7/8); names shown are selective examples except for the four anchors. The four adjacent analysis units are outside this runtime matrix. Membership does not establish performance or safety.",
       "items": [
         {
           "children": [
@@ -17,11 +17,11 @@
                 "id": 1103012935,
                 "language": "TypeScript",
                 "license": "MIT",
-                "last_commit": "2026-10-24T17:22:19Z",
-                "open_issues": 7780,
+                "last_commit": "2026-10-25T17:36:25Z",
+                "open_issues": 7867,
                 "owner": "openclaw",
                 "repo": "openclaw",
-                "stars": 392936,
+                "stars": 393028,
                 "topics": [
                   "ai",
                   "assistant",
@@ -50,7 +50,7 @@
                 "open_issues": 0,
                 "owner": "deepseek-ai",
                 "repo": "deepseek-harness",
-                "stars": 260336,
+                "stars": 261304,
                 "topics": [
                   "ai-agents",
                   "cordis",
@@ -73,10 +73,10 @@
                 "language": "TypeScript",
                 "license": null,
                 "last_commit": "2026-10-24T02:18:59Z",
-                "open_issues": 15617,
+                "open_issues": 15669,
                 "owner": "anthropics",
                 "repo": "claude-code",
-                "stars": 153263,
+                "stars": 153346,
                 "topics": []
               },
               "first_seen": "2026-10-13T20:13:12.524Z"
@@ -94,10 +94,10 @@
                 "language": "Rust",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T18:51:12Z",
-                "open_issues": 24589,
+                "open_issues": 24715,
                 "owner": "openai",
                 "repo": "codex",
-                "stars": 130789,
+                "stars": 130875,
                 "topics": []
               },
               "first_seen": "2026-10-12T22:06:09.779Z"
@@ -123,11 +123,11 @@
                     "id": 975734319,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T17:18:19Z",
-                    "open_issues": 3776,
+                    "last_commit": "2026-10-25T17:25:05Z",
+                    "open_issues": 3802,
                     "owner": "anomalyco",
                     "repo": "opencode",
-                    "stars": 221000,
+                    "stars": 221468,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -144,11 +144,11 @@
                     "id": 968197216,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T01:15:52Z",
-                    "open_issues": 756,
+                    "last_commit": "2026-10-25T01:31:54Z",
+                    "open_issues": 766,
                     "owner": "google-gemini",
                     "repo": "gemini-cli",
-                    "stars": 107819,
+                    "stars": 108379,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -173,11 +173,11 @@
                     "id": 771302083,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T13:50:22Z",
-                    "open_issues": 1099,
+                    "last_commit": "2026-10-25T11:39:11Z",
+                    "open_issues": 1110,
                     "owner": "OpenHands",
                     "repo": "OpenHands",
-                    "stars": 91730,
+                    "stars": 91807,
                     "topics": [
                       "agent",
                       "artificial-intelligence",
@@ -204,11 +204,11 @@
                     "id": 824874689,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T07:04:13Z",
-                    "open_issues": 1703,
+                    "last_commit": "2026-10-25T16:19:20Z",
+                    "open_issues": 1709,
                     "owner": "cline",
                     "repo": "cline",
-                    "stars": 70812,
+                    "stars": 70854,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -225,11 +225,11 @@
                     "id": 846698999,
                     "language": "Rust",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T12:49:58Z",
-                    "open_issues": 521,
+                    "last_commit": "2026-10-25T01:02:55Z",
+                    "open_issues": 525,
                     "owner": "aaif-goose",
                     "repo": "goose",
-                    "stars": 55635,
+                    "stars": 55696,
                     "topics": [
                       "acp",
                       "ai",
@@ -251,11 +251,11 @@
                     "id": 1027384981,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T09:12:05Z",
-                    "open_issues": 190,
+                    "last_commit": "2026-10-25T15:24:20Z",
+                    "open_issues": 191,
                     "owner": "langchain-ai",
                     "repo": "deepagents",
-                    "stars": 30551,
+                    "stars": 30574,
                     "topics": [
                       "ai",
                       "deepagents",
@@ -285,7 +285,7 @@
                     "open_issues": 0,
                     "owner": "xai-org",
                     "repo": "grok-build",
-                    "stars": 27526,
+                    "stars": 27543,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -302,11 +302,11 @@
                     "id": 1232493406,
                     "language": "Rust",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-24T17:22:00Z",
-                    "open_issues": 147,
+                    "last_commit": "2026-10-25T17:13:23Z",
+                    "open_issues": 133,
                     "owner": "PrimeIntellect-ai",
                     "repo": "prime-agent",
-                    "stars": 22307,
+                    "stars": 22323,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -327,7 +327,7 @@
                     "open_issues": 1158,
                     "owner": "XiaomiMiMo",
                     "repo": "MiMo-Code",
-                    "stars": 13718,
+                    "stars": 13722,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -357,11 +357,11 @@
                     "id": 676672661,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T03:42:31Z",
-                    "open_issues": 517,
+                    "last_commit": "2026-10-25T15:27:16Z",
+                    "open_issues": 513,
                     "owner": "langchain-ai",
                     "repo": "langgraph",
-                    "stars": 43830,
+                    "stars": 43877,
                     "topics": [
                       "agents",
                       "ai",
@@ -401,7 +401,7 @@
                     "open_issues": 22,
                     "owner": "openai",
                     "repo": "openai-agents-python",
-                    "stars": 30258,
+                    "stars": 30274,
                     "topics": [
                       "agents",
                       "ai",
@@ -426,11 +426,11 @@
                     "id": 839037098,
                     "language": "TypeScript",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-24T12:24:39Z",
-                    "open_issues": 606,
+                    "last_commit": "2026-10-25T16:54:00Z",
+                    "open_issues": 610,
                     "owner": "mastra-ai",
                     "repo": "mastra",
-                    "stars": 29049,
+                    "stars": 29067,
                     "topics": [
                       "agents",
                       "ai",
@@ -461,11 +461,11 @@
                     "id": 958830659,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T11:27:33Z",
-                    "open_issues": 399,
+                    "last_commit": "2026-10-25T06:03:07Z",
+                    "open_issues": 413,
                     "owner": "google",
                     "repo": "adk-python",
-                    "stars": 21990,
+                    "stars": 22003,
                     "topics": [
                       "agent",
                       "agentic",
@@ -499,11 +499,11 @@
                     "id": 974445592,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T10:17:02Z",
-                    "open_issues": 835,
+                    "last_commit": "2026-10-25T14:38:45Z",
+                    "open_issues": 848,
                     "owner": "microsoft",
                     "repo": "agent-framework",
-                    "stars": 14304,
+                    "stars": 14313,
                     "topics": [
                       "agent-framework",
                       "agentic-ai",
@@ -538,11 +538,11 @@
                     "id": 1024554267,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T17:14:59Z",
-                    "open_issues": 50832,
+                    "last_commit": "2026-10-25T15:42:37Z",
+                    "open_issues": 51025,
                     "owner": "NousResearch",
                     "repo": "hermes-agent",
-                    "stars": 256733,
+                    "stars": 257006,
                     "topics": [
                       "ai",
                       "ai-agent",
@@ -573,11 +573,11 @@
                     "id": 979115477,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T16:12:26Z",
-                    "open_issues": 980,
+                    "last_commit": "2026-10-25T16:14:17Z",
+                    "open_issues": 950,
                     "owner": "bytedance",
                     "repo": "deer-flow",
-                    "stars": 84377,
+                    "stars": 84413,
                     "topics": [
                       "agent",
                       "agentic",
@@ -613,11 +613,11 @@
                     "id": 1266212515,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T17:15:24Z",
-                    "open_issues": 2396,
+                    "last_commit": "2026-10-25T17:09:14Z",
+                    "open_issues": 2404,
                     "owner": "omnigent-ai",
                     "repo": "omnigent",
-                    "stars": 11020,
+                    "stars": 11040,
                     "topics": [
                       "agent-framework",
                       "agent-governance",
@@ -652,10 +652,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-24T16:54:18Z",
-                    "open_issues": 96,
+                    "open_issues": 98,
                     "owner": "truefoundry",
                     "repo": "trueforge",
-                    "stars": 6353,
+                    "stars": 6371,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -682,7 +682,7 @@
                     "open_issues": 20,
                     "owner": "AMAP-ML",
                     "repo": "LongHorizon-Harness",
-                    "stars": 1774,
+                    "stars": 1776,
                     "topics": [
                       "agent",
                       "claude",
@@ -754,8 +754,8 @@
                     "id": 1054838518,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T13:07:27Z",
-                    "open_issues": 283,
+                    "last_commit": "2026-10-25T16:05:08Z",
+                    "open_issues": 286,
                     "owner": "cuga-project",
                     "repo": "cuga-agent",
                     "stars": 1049,
@@ -839,7 +839,7 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-07-23T09:28:56Z",
-                    "open_issues": 1,
+                    "open_issues": 2,
                     "owner": "aohp-os",
                     "repo": "aohp",
                     "stars": 156,
@@ -866,11 +866,11 @@
                     "id": 1158198234,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T06:15:37Z",
-                    "open_issues": 66,
+                    "last_commit": "2026-10-25T06:15:26Z",
+                    "open_issues": 68,
                     "owner": "open-jarvis",
                     "repo": "OpenJarvis",
-                    "stars": 11964,
+                    "stars": 12037,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -894,11 +894,11 @@
                     "id": 1382865521,
                     "language": "Swift",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-24T16:08:56Z",
-                    "open_issues": 97,
+                    "last_commit": "2026-10-25T17:29:44Z",
+                    "open_issues": 96,
                     "owner": "nano-muse",
                     "repo": "nanoMuse",
-                    "stars": 2504,
+                    "stars": 2576,
                     "topics": [
                       "agent-skills",
                       "ai-agent",
@@ -941,11 +941,11 @@
                     "id": 968197216,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T01:15:52Z",
-                    "open_issues": 756,
+                    "last_commit": "2026-10-25T01:31:54Z",
+                    "open_issues": 766,
                     "owner": "google-gemini",
                     "repo": "gemini-cli",
-                    "stars": 107819,
+                    "stars": 108379,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -971,10 +971,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-01-21T10:12:33Z",
-                    "open_issues": 136,
+                    "open_issues": 138,
                     "owner": "FoundationAgents",
                     "repo": "MetaGPT",
-                    "stars": 71004,
+                    "stars": 71014,
                     "topics": [
                       "agent",
                       "gpt",
@@ -998,10 +998,10 @@
                     "language": "Python",
                     "license": "CC-BY-4.0",
                     "last_commit": "2026-10-16T16:14:37Z",
-                    "open_issues": 1122,
+                    "open_issues": 1121,
                     "owner": "microsoft",
                     "repo": "autogen",
-                    "stars": 61548,
+                    "stars": 61558,
                     "topics": [
                       "agentic",
                       "agentic-agi",
@@ -1030,10 +1030,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-05-22T14:02:20Z",
-                    "open_issues": 1939,
+                    "open_issues": 1942,
                     "owner": "Aider-AI",
                     "repo": "aider",
-                    "stars": 49736,
+                    "stars": 49748,
                     "topics": [
                       "anthropic",
                       "chatgpt",
@@ -1065,10 +1065,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-16T15:55:30Z",
-                    "open_issues": 87,
+                    "open_issues": 88,
                     "owner": "OpenBMB",
                     "repo": "ChatDev",
-                    "stars": 34584,
+                    "stars": 34587,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -1089,7 +1089,7 @@
                     "open_issues": 168,
                     "owner": "SWE-agent",
                     "repo": "SWE-agent",
-                    "stars": 20630,
+                    "stars": 20635,
                     "topics": [
                       "agent",
                       "agent-based-model",
@@ -1118,7 +1118,7 @@
                     "open_issues": 552,
                     "owner": "camel-ai",
                     "repo": "camel",
-                    "stars": 17964,
+                    "stars": 17972,
                     "topics": [
                       "agent",
                       "ai-societies",
@@ -1145,11 +1145,11 @@
                     "id": 1316527318,
                     "language": "TypeScript",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T00:39:27Z",
-                    "open_issues": 1019,
+                    "last_commit": "2026-10-25T01:41:34Z",
+                    "open_issues": 1040,
                     "owner": "yc-software",
                     "repo": "qm",
-                    "stars": 15526,
+                    "stars": 15533,
                     "topics": [
                       "ai",
                       "assistant",
@@ -1171,11 +1171,11 @@
                     "id": 987975584,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T16:51:12Z",
-                    "open_issues": 213,
+                    "last_commit": "2026-10-25T15:22:24Z",
+                    "open_issues": 227,
                     "owner": "langchain-ai",
                     "repo": "open-swe",
-                    "stars": 11098,
+                    "stars": 11101,
                     "topics": [
                       "agent",
                       "agents",
@@ -1202,10 +1202,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-10-19T22:57:58Z",
-                    "open_issues": 113,
+                    "open_issues": 121,
                     "owner": "SWE-agent",
                     "repo": "mini-swe-agent",
-                    "stars": 8800,
+                    "stars": 8818,
                     "topics": [
                       "agent",
                       "agentic-ai",
@@ -1233,7 +1233,7 @@
                     "open_issues": 64,
                     "owner": "agiresearch",
                     "repo": "AIOS",
-                    "stars": 6503,
+                    "stars": 6506,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -1250,11 +1250,11 @@
                     "id": 1245465729,
                     "language": "Python",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T16:55:13Z",
-                    "open_issues": 73,
+                    "last_commit": "2026-10-25T16:28:39Z",
+                    "open_issues": 83,
                     "owner": "EverMind-AI",
                     "repo": "Raven",
-                    "stars": 5778,
+                    "stars": 5815,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -1292,11 +1292,11 @@
                     "id": 1271113810,
                     "language": "TypeScript",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T17:22:01Z",
-                    "open_issues": 812,
+                    "last_commit": "2026-10-25T16:12:52Z",
+                    "open_issues": 789,
                     "owner": "vercel",
                     "repo": "eve",
-                    "stars": 5666,
+                    "stars": 5670,
                     "topics": [
                       "agent",
                       "framework",
@@ -1395,7 +1395,7 @@
                   "children": [],
                   "repo_info": {
                     "archived": false,
-                    "description": "CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for Long-Horizon, Multi-Model, and Tool-Using AI Systems",
+                    "description": "CheetahClaws, From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
                     "homepage": "https://cheetahclaws.github.io",
                     "id": 1198604352,
                     "language": "Python",
@@ -1485,11 +1485,11 @@
                     "id": 1196447493,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-22T18:36:21Z",
-                    "open_issues": 93,
+                    "last_commit": "2026-10-25T02:45:25Z",
+                    "open_issues": 96,
                     "owner": "google",
                     "repo": "ax",
-                    "stars": 14059,
+                    "stars": 14076,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -1506,11 +1506,11 @@
                     "id": 1238047523,
                     "language": "Go",
                     "license": "Apache-2.0",
-                    "last_commit": "2026-10-24T16:41:19Z",
-                    "open_issues": 876,
+                    "last_commit": "2026-10-25T15:47:27Z",
+                    "open_issues": 878,
                     "owner": "agent-substrate",
                     "repo": "substrate",
-                    "stars": 5768,
+                    "stars": 5783,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -1528,10 +1528,10 @@
                     "language": "TypeScript",
                     "license": "MIT",
                     "last_commit": "2026-10-23T17:15:24Z",
-                    "open_issues": 73,
+                    "open_issues": 74,
                     "owner": "microsoft",
                     "repo": "agent-host-protocol",
-                    "stars": 413,
+                    "stars": 414,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -1559,7 +1559,7 @@
                     "open_issues": 0,
                     "owner": "letta-ai",
                     "repo": "letta",
-                    "stars": 25241,
+                    "stars": 25253,
                     "topics": [
                       "ai",
                       "ai-agents",
@@ -1585,7 +1585,7 @@
                     "open_issues": 146,
                     "owner": "joonspk-research",
                     "repo": "generative_agents",
-                    "stars": 22282,
+                    "stars": 22291,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -1606,7 +1606,7 @@
                     "open_issues": 132,
                     "owner": "google-research",
                     "repo": "harness2",
-                    "stars": 18979,
+                    "stars": 19508,
                     "topics": []
                   },
                   "first_seen": "2026-10-13T20:13:12.524Z"
@@ -1627,7 +1627,7 @@
                     "open_issues": 58,
                     "owner": "microsoft",
                     "repo": "SkillOpt",
-                    "stars": 18658,
+                    "stars": 18670,
                     "topics": [
                       "agent-skills",
                       "self-evolving-agents"
@@ -1651,7 +1651,7 @@
                     "open_issues": 7,
                     "owner": "MineDojo",
                     "repo": "Voyager",
-                    "stars": 7284,
+                    "stars": 7287,
                     "topics": [
                       "embodied-learning",
                       "large-language-models",
@@ -1677,7 +1677,7 @@
                     "open_issues": 24,
                     "owner": "noahshinn",
                     "repo": "reflexion",
-                    "stars": 3315,
+                    "stars": 3316,
                     "topics": [
                       "ai",
                       "artificial-intelligence",
@@ -1702,7 +1702,7 @@
                     "open_issues": 56,
                     "owner": "google-deepmind",
                     "repo": "concordia",
-                    "stars": 1821,
+                    "stars": 1825,
                     "topics": [
                       "agent-based-simulation",
                       "generative-agents",
@@ -1732,10 +1732,10 @@
                     "language": "Python",
                     "license": "MIT",
                     "last_commit": "2026-09-14T10:51:06Z",
-                    "open_issues": 1242,
+                    "open_issues": 1248,
                     "owner": "EleutherAI",
                     "repo": "lm-evaluation-harness",
-                    "stars": 14306,
+                    "stars": 14313,
                     "topics": [
                       "evaluation-framework",
                       "language-model",
@@ -1760,7 +1760,7 @@
                     "open_issues": 1165,
                     "owner": "harbor-framework",
                     "repo": "harbor",
-                    "stars": 6436,
+                    "stars": 6462,
                     "topics": [
                       "evals",
                       "rl-environments",
@@ -1808,7 +1808,7 @@
       "title": "3. System Landscape"
     },
     {
-      "description": "A benchmark belongs here when it reveals something about the runtime around the model: component choice, state over time, recovery, permissions, auditability, protocol behavior, or evaluation infrastructure. Every result should identify the model, harness, environment, task version, budget, and evaluator together.",
+      "description": "A benchmark belongs here when it reveals something about the runtime around the model: component choice, state over time, recovery, permissions, auditability, protocol behavior, or evaluation infrastructure. Every result should identify the model, harness, environment, task version, budget, and evaluator together.\nEnvironment drift, task ambiguity and harness coupling can complicate attribution. These are conditional explanatory paths; dashed cross-links describe interactions and lower annotations give controls, not measured effect sizes.",
       "items": [
         {
           "children": [
@@ -1828,7 +1828,7 @@
                 "open_issues": 1165,
                 "owner": "harbor-framework",
                 "repo": "harbor",
-                "stars": 6436,
+                "stars": 6462,
                 "topics": [
                   "evals",
                   "rl-environments",
@@ -1860,7 +1860,7 @@
                 "open_issues": 52,
                 "owner": "SWE-bench",
                 "repo": "SWE-bench",
-                "stars": 6077,
+                "stars": 6083,
                 "topics": [
                   "benchmark",
                   "language-model",
@@ -1942,10 +1942,10 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-23T15:52:23Z",
-                "open_issues": 54,
+                "open_issues": 53,
                 "owner": "TIGER-AI-Lab",
                 "repo": "ClawBench",
-                "stars": 1097,
+                "stars": 1113,
                 "topics": [
                   "agent-evaluation",
                   "agentic-ai",
@@ -1987,7 +1987,7 @@
                 "open_issues": 0,
                 "owner": "OpenBMB",
                 "repo": "EC2-Bench",
-                "stars": 18,
+                "stars": 20,
                 "topics": [
                   "agent-benchmark",
                   "agent-evaluation",
@@ -2071,7 +2071,7 @@
                     "open_issues": 128,
                     "owner": "openai",
                     "repo": "gym",
-                    "stars": 37234,
+                    "stars": 37236,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -2088,11 +2088,11 @@
                     "id": 534011733,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-23T21:44:35Z",
-                    "open_issues": 125,
+                    "last_commit": "2026-10-24T21:00:09Z",
+                    "open_issues": 124,
                     "owner": "Farama-Foundation",
                     "repo": "Gymnasium",
-                    "stars": 12722,
+                    "stars": 12727,
                     "topics": [
                       "api",
                       "gym",
@@ -2120,11 +2120,11 @@
                     "id": 614765452,
                     "language": "Python",
                     "license": "NOASSERTION",
-                    "last_commit": "2026-10-24T17:11:35Z",
-                    "open_issues": 725,
+                    "last_commit": "2026-10-25T17:30:10Z",
+                    "open_issues": 718,
                     "owner": "Significant-Gravitas",
                     "repo": "AutoGPT",
-                    "stars": 187725,
+                    "stars": 187747,
                     "topics": [
                       "agentic-ai",
                       "agents",
@@ -2153,11 +2153,11 @@
                     "id": 552661142,
                     "language": "Python",
                     "license": "MIT",
-                    "last_commit": "2026-10-24T08:27:54Z",
-                    "open_issues": 674,
+                    "last_commit": "2026-10-25T14:52:59Z",
+                    "open_issues": 676,
                     "owner": "langchain-ai",
                     "repo": "langchain",
-                    "stars": 148368,
+                    "stars": 148422,
                     "topics": [
                       "agents",
                       "ai",
@@ -2199,7 +2199,7 @@
                     "open_issues": 33,
                     "owner": "yoheinakajima",
                     "repo": "babyagi",
-                    "stars": 22355,
+                    "stars": 22356,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -2258,10 +2258,10 @@
                     "language": "Python",
                     "license": "Apache-2.0",
                     "last_commit": "2026-10-23T15:52:23Z",
-                    "open_issues": 54,
+                    "open_issues": 53,
                     "owner": "TIGER-AI-Lab",
                     "repo": "ClawBench",
-                    "stars": 1097,
+                    "stars": 1113,
                     "topics": [
                       "agent-evaluation",
                       "agentic-ai",
@@ -2303,7 +2303,7 @@
                     "open_issues": 0,
                     "owner": "OpenBMB",
                     "repo": "EC2-Bench",
-                    "stars": 18,
+                    "stars": 20,
                     "topics": [
                       "agent-benchmark",
                       "agent-evaluation",
@@ -2370,7 +2370,7 @@
                     "open_issues": 294,
                     "owner": "ShishirPatil",
                     "repo": "gorilla",
-                    "stars": 13058,
+                    "stars": 13059,
                     "topics": [
                       "api",
                       "api-documentation",
@@ -2407,7 +2407,7 @@
                     "open_issues": 168,
                     "owner": "OpenBMB",
                     "repo": "ToolBench",
-                    "stars": 5759,
+                    "stars": 5760,
                     "topics": []
                   },
                   "first_seen": "2026-08-28T23:31:32.491Z"
@@ -2439,7 +2439,7 @@
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
               ],
-              "description": "Evidence focus: Tool reliability depends on more than the number of available tools. Tool selection, typed contracts, semantic authorization, result validation, and recovery policy interact across the execution loop.",
+              "description": "Evidence focus: Tool reliability depends on more than the number of available tools. Tool selection, typed contracts, semantic authorization, result validation, and recovery policy interact across the execution loop.\nTool governance spans registration, selection, dispatch, execution, result handling and recovery. Schema validity does not establish authorization; returned content remains untrusted, sandboxing is conditional, and logs are not independent audit.",
               "node_type": "group",
               "title": "Tool Use & Registry"
             },
@@ -2461,7 +2461,7 @@
                     "open_issues": 8,
                     "owner": "princeton-nlp",
                     "repo": "tree-of-thought-llm",
-                    "stars": 6082,
+                    "stars": 6083,
                     "topics": [
                       "large-language-models",
                       "llm",
@@ -2488,7 +2488,7 @@
                     "open_issues": 20,
                     "owner": "AMAP-ML",
                     "repo": "LongHorizon-Harness",
-                    "stars": 1774,
+                    "stars": 1776,
                     "topics": [
                       "agent",
                       "claude",
@@ -2600,7 +2600,7 @@
                   "first_seen": "2026-08-28T23:31:32.491Z"
                 }
               ],
-              "description": "Evidence focus: AgencyBench reports 48.4% aggregate performance for closed models versus 32.1% for open models, and separately observes native-ecosystem advantages for some proprietary systems. The aggregate 48.4% figure is not a native-SDK success rate.",
+              "description": "Evidence focus: AgencyBench reports 48.4% aggregate performance for closed models versus 32.1% for open models, and separately observes native-ecosystem advantages for some proprietary systems. The aggregate 48.4% figure is not a native-SDK success rate.\nIllustrative coordination patterns expose different identity, authority, state-consistency and evidence responsibilities. Patterns can be combined; topology alone does not establish permission separation, isolation or safety.",
               "node_type": "group",
               "title": "Multi-Agent Coordination"
             },
@@ -2646,7 +2646,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "CheetahClaws: A Fast and Easy-to-Use Agent Harness Infrastructure for Long-Horizon, Multi-Model, and Tool-Using AI Systems",
+                "description": "CheetahClaws, From Model Scaling to System Scaling: Scaling the Harness in Agentic AI",
                 "homepage": "https://cheetahclaws.github.io",
                 "id": 1198604352,
                 "language": "Python",
@@ -2720,7 +2720,7 @@
               "first_seen": "2026-10-12T22:06:09.779Z"
             }
           ],
-          "description": null,
+          "description": "The reported Meta-Harness optimization loop uses candidate harness code, task evaluation, execution traces and accumulated history to inform later proposals. It illustrates harness-level optimization rather than weight updates or unrestricted recursive improvement; no numerical performance claim is made.",
           "node_type": "group",
           "title": "Harness Architectures and Evolution"
         },
@@ -2782,11 +2782,11 @@
                 "id": 839037098,
                 "language": "TypeScript",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-24T12:24:39Z",
-                "open_issues": 606,
+                "last_commit": "2026-10-25T16:54:00Z",
+                "open_issues": 610,
                 "owner": "mastra-ai",
                 "repo": "mastra",
-                "stars": 29049,
+                "stars": 29067,
                 "topics": [
                   "agents",
                   "ai",
@@ -2821,7 +2821,7 @@
                 "open_issues": 1158,
                 "owner": "XiaomiMiMo",
                 "repo": "MiMo-Code",
-                "stars": 13718,
+                "stars": 13722,
                 "topics": [
                   "ai",
                   "ai-agents",
@@ -2844,11 +2844,11 @@
                 "id": 1158198234,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-24T06:15:37Z",
-                "open_issues": 66,
+                "last_commit": "2026-10-25T06:15:26Z",
+                "open_issues": 68,
                 "owner": "open-jarvis",
                 "repo": "OpenJarvis",
-                "stars": 11964,
+                "stars": 12037,
                 "topics": []
               },
               "first_seen": "2026-10-13T20:13:12.524Z"
@@ -2905,7 +2905,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T17:23:23.986Z",
+    "last_updated": "2026-10-25T17:37:05.442Z",
     "original_repository_info": {
       "archived": false,
       "description": "Official repository for Agent Harness for Large Language Model Agents: A Survey — 168 references, 34 evidence-coded systems, and 30 harness benchmarks.",
@@ -2913,8 +2913,8 @@
       "id": 1200398425,
       "language": null,
       "license": "CC-BY-4.0",
-      "last_commit": "2026-10-23T03:31:23Z",
-      "open_issues": 1,
+      "last_commit": "2026-10-25T05:48:57Z",
+      "open_issues": 3,
       "owner": "Gloriaameng",
       "repo": "Awesome-Agent-Harness",
       "stars": 374,
@@ -2928,7 +2928,7 @@
         "llm"
       ]
     },
-    "original_repository_sha": "adcb22f85921566985010d814bf27a3cab15edee",
+    "original_repository_sha": "c77c7470519d03baa4db4a1fee4dd694ade3d367",
     "enhanced_repository": "enhansome/enhansome-Awesome-Agent-Harness",
     "enhanced_repository_description": null,
     "title": "Awesome Agent Harness for Large Language Model Agents: A Survey with stars"
