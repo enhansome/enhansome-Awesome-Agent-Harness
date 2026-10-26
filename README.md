@@ -144,10 +144,10 @@ The 34-system comparison set uses five reporting groups (4/10/5/7/8); names show
 
 These four systems are the survey's anchor cases. They receive the same analytical weight because each exposes a distinct answer to the same runtime problem: how to turn model calls into governed, persistent, tool-using work.
 
-* **[OpenClaw](https://github.com/openclaw/openclaw) ⭐ 393,028 | 🐛 7,867 | 🌐 TypeScript | 📅 2026-10-25** — An always-on personal-agent harness organized around channels, sessions, tools, skills, memory, scheduled work, gateway routing, and sandboxed execution. It makes deployment continuity central: identity, credentials, background jobs, workspace state, and operational policy persist beyond a single chat turn. That operating model makes it a key case for studying durable personal agents rather than one-shot assistants.
-* **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ⭐ 261,304 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23** — A plugin-native runtime in which model adapters, loops, tools, context projection, storage, telemetry, and interfaces are composed through profiles, bundles, and ordered patches. These boundaries let teams replace and audit the loop, context policy, tool behavior, and observability separately. The [architecture](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/architecture.md) ⭐ 261,304 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23, [tool subsystem](https://github.com/deepseek-ai/deepseek-harness/blob/master/packages/core/tools/README.md) ⭐ 261,304 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23, and [compaction design](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/compaction.md) ⭐ 261,304 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 also provide a concrete base for bounded, evaluated, reversible harness-level improvement.
-* **[Claude Code](https://github.com/anthropics/claude-code) ⭐ 153,346 | 🐛 15,669 | 🌐 TypeScript | 📅 2026-10-24** — A vertically integrated coding harness that joins repository inspection, edits, commands, web and MCP tools, subagents, skills, hooks, permissions, checkpoints, and session continuation. Its CLI and [Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,346 | 🐛 590 | 🌐 Python | 📅 2026-10-24 make the execution and policy layers visible across interactive and programmable use.
-* **[Codex](https://github.com/openai/codex) ⭐ 130,875 | 🐛 24,715 | 🌐 Rust | 📅 2026-10-23** — An open-source coding harness spanning terminal, IDE, app, and cloud workflows. Its runtime combines repository tools, sandboxing, approvals, MCP, skills, subagents, compaction, resumable threads, and structured events. The shared runtime makes long-horizon work inspectable across surfaces, while OpenAI's [harness engineering](https://openai.com/index/harness-engineering/) account shows how those controls shape sustained software work.
+* **[OpenClaw](https://github.com/openclaw/openclaw) ⭐ 393,145 | 🐛 7,952 | 🌐 TypeScript | 📅 2026-10-26** — An always-on personal-agent harness organized around channels, sessions, tools, skills, memory, scheduled work, gateway routing, and sandboxed execution. It makes deployment continuity central: identity, credentials, background jobs, workspace state, and operational policy persist beyond a single chat turn. That operating model makes it a key case for studying durable personal agents rather than one-shot assistants.
+* **[DeepSeek Harness](https://github.com/deepseek-ai/deepseek-harness) ⭐ 262,486 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23** — A plugin-native runtime in which model adapters, loops, tools, context projection, storage, telemetry, and interfaces are composed through profiles, bundles, and ordered patches. These boundaries let teams replace and audit the loop, context policy, tool behavior, and observability separately. The [architecture](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/architecture.md) ⭐ 262,486 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23, [tool subsystem](https://github.com/deepseek-ai/deepseek-harness/blob/master/packages/core/tools/README.md) ⭐ 262,486 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23, and [compaction design](https://github.com/deepseek-ai/deepseek-harness/blob/master/docs/subsystems/compaction.md) ⭐ 262,486 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-23 also provide a concrete base for bounded, evaluated, reversible harness-level improvement.
+* **[Claude Code](https://github.com/anthropics/claude-code) ⭐ 153,461 | 🐛 15,725 | 🌐 TypeScript | 📅 2026-10-26** — A vertically integrated coding harness that joins repository inspection, edits, commands, web and MCP tools, subagents, skills, hooks, permissions, checkpoints, and session continuation. Its CLI and [Agent SDK](https://github.com/anthropics/claude-agent-sdk-python) ⭐ 8,356 | 🐛 596 | 🌐 Python | 📅 2026-10-25 make the execution and policy layers visible across interactive and programmable use.
+* **[Codex](https://github.com/openai/codex) ⭐ 131,021 | 🐛 24,915 | 🌐 Rust | 📅 2026-10-26** — An open-source coding harness spanning terminal, IDE, app, and cloud workflows. Its runtime combines repository tools, sandboxing, approvals, MCP, skills, subagents, compaction, resumable threads, and structured events. The shared runtime makes long-horizon work inspectable across surfaces, while OpenAI's [harness engineering](https://openai.com/index/harness-engineering/) account shows how those controls shape sustained software work.
 
 ### Evidence-Coded Comparison Matrix
 
@@ -206,40 +206,40 @@ The matrix includes every current system for which first-party material is suffi
 
 The four featured systems above are joined by ten coding harnesses in the comparison set.
 
-* **[OpenCode](https://github.com/anomalyco/opencode) ⭐ 221,468 | 🐛 3,802 | 🌐 TypeScript | 📅 2026-10-25** — An open-source coding agent with terminal and client/server surfaces, multi-provider model support, tool execution, sessions, and extensibility.
-* **[Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2?hl=en)** — Google's current coding harness, with dynamic subagents, asynchronous tasks, skills, hooks, project permissions, scheduled work, and a CLI that carries these controls into terminal workflows. It succeeds Gemini CLI for consumer use; Google documents the [migration](https://github.com/google-gemini/gemini-cli/discussions/27274) ⭐ 108,379 | 🐛 766 | 🌐 TypeScript | 📅 2026-10-25 separately.
-* **[OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 91,807 | 🐛 1,110 | 🌐 TypeScript | 📅 2026-10-25** — A platform for software-development agents with isolated runtimes, event streams, tool execution, browsing, delegation, and evaluation integrations.
-* **[Cline](https://github.com/cline/cline) ⭐ 70,854 | 🐛 1,709 | 🌐 TypeScript | 📅 2026-10-25** — An IDE coding agent with plan/act workflows, checkpoints, browser and terminal tools, MCP integrations, and explicit approval points.
-* **[Goose](https://github.com/aaif-goose/goose) ⭐ 55,696 | 🐛 525 | 🌐 Rust | 📅 2026-10-25** — A local, extensible coding agent whose tools and integrations are exposed through extensions and MCP-compatible interfaces.
-* **[Deep Agents](https://github.com/langchain-ai/deepagents) ⭐ 30,574 | 🐛 191 | 🌐 Python | 📅 2026-10-25** — A batteries-included agent harness that combines planning, filesystems, subagents, context management, memory, and LangGraph execution.
-* **[Grok Build](https://github.com/xai-org/grok-build) ⭐ 27,543 | 🐛 0 | 🌐 Rust | 📅 2026-09-29** — xAI's open coding-agent harness for repository work, tool use, context handling, and iterative verification.
-* **[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) ⭐ 22,323 | 🐛 133 | 🌐 Rust | 📅 2026-10-25** — A coding-agent system centered on long-running repository tasks, execution environments, trajectory capture, and training/evaluation workflows.
-* **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) ⭐ 13,722 | 🐛 1,158 | 🌐 TypeScript | 📅 2026-10-23** — Xiaomi's terminal coding harness with persistent project memory, checkpoints, context reconstruction, subagents, skills, MCP, permission rules, and judge-driven research and experiment loops.
+* **[OpenCode](https://github.com/anomalyco/opencode) ⭐ 221,901 | 🐛 3,852 | 🌐 TypeScript | 📅 2026-10-26** — An open-source coding agent with terminal and client/server surfaces, multi-provider model support, tool execution, sessions, and extensibility.
+* **[Antigravity CLI](https://antigravity.google/blog/introducing-google-antigravity-2?hl=en)** — Google's current coding harness, with dynamic subagents, asynchronous tasks, skills, hooks, project permissions, scheduled work, and a CLI that carries these controls into terminal workflows. It succeeds Gemini CLI for consumer use; Google documents the [migration](https://github.com/google-gemini/gemini-cli/discussions/27274) ⭐ 108,548 | 🐛 787 | 🌐 TypeScript | 📅 2026-10-26 separately.
+* **[OpenHands](https://github.com/OpenHands/OpenHands) ⭐ 91,915 | 🐛 1,124 | 🌐 TypeScript | 📅 2026-10-26** — A platform for software-development agents with isolated runtimes, event streams, tool execution, browsing, delegation, and evaluation integrations.
+* **[Cline](https://github.com/cline/cline) ⭐ 70,893 | 🐛 1,724 | 🌐 TypeScript | 📅 2026-10-26** — An IDE coding agent with plan/act workflows, checkpoints, browser and terminal tools, MCP integrations, and explicit approval points.
+* **[Goose](https://github.com/aaif-goose/goose) ⭐ 55,760 | 🐛 514 | 🌐 Rust | 📅 2026-10-26** — A local, extensible coding agent whose tools and integrations are exposed through extensions and MCP-compatible interfaces.
+* **[Deep Agents](https://github.com/langchain-ai/deepagents) ⭐ 30,613 | 🐛 192 | 🌐 Python | 📅 2026-10-26** — A batteries-included agent harness that combines planning, filesystems, subagents, context management, memory, and LangGraph execution.
+* **[Grok Build](https://github.com/xai-org/grok-build) ⭐ 27,554 | 🐛 0 | 🌐 Rust | 📅 2026-09-29** — xAI's open coding-agent harness for repository work, tool use, context handling, and iterative verification.
+* **[Prime Agent](https://github.com/PrimeIntellect-ai/prime-agent) ⭐ 22,357 | 🐛 145 | 🌐 Rust | 📅 2026-10-26** — A coding-agent system centered on long-running repository tasks, execution environments, trajectory capture, and training/evaluation workflows.
+* **[MiMo-Code](https://github.com/XiaomiMiMo/MiMo-Code) ⭐ 13,730 | 🐛 1,155 | 🌐 TypeScript | 📅 2026-10-26** — Xiaomi's terminal coding harness with persistent project memory, checkpoints, context reconstruction, subagents, skills, MCP, permission rules, and judge-driven research and experiment loops.
 * **[GitHub Copilot in VS Code](https://code.visualstudio.com/blogs/2026/05/15/agent-harnesses-github-copilot-vscode/)** — An editor-native production harness with model-specific context and tool adaptation, explicit loop control, portable sessions, permission hooks, and a documented evaluation pipeline.
 
 #### General agent runtimes
 
-* **[LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 43,877 | 🐛 513 | 🌐 Python | 📅 2026-10-25** — A stateful graph runtime for durable execution, checkpoints, interrupts, streaming, and human-in-the-loop agent workflows.
-* **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python) ⭐ 30,274 | 🐛 22 | 🌐 Python | 📅 2026-10-22** — A runtime for tools, handoffs, guardrails, sessions, tracing, and multi-agent workflows. OpenAI's [2026 architecture update](https://openai.com/index/the-next-evolution-of-the-agents-sdk/) extends the same runtime toward longer-lived, stateful work.
-* **[Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,067 | 🐛 610 | 🌐 TypeScript | 📅 2026-10-25** — A TypeScript-native application runtime with autonomous agents, graph workflows, tools and MCP, stored suspend/resume state, memory, observability, and built-in evaluation.
-* **[Google ADK](https://github.com/google/adk-python) ⭐ 22,003 | 🐛 413 | 🌐 Python | 📅 2026-10-25** — An agent development kit with workflow agents, tools, sessions, callbacks, evaluation, and deployment integrations.
-* **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework) ⭐ 14,313 | 🐛 848 | 🌐 Python | 📅 2026-10-25** — Microsoft's runtime for agents, workflows, middleware, memory, tools, observability, and evaluation; its [Build 2026 update](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-at-build-2026-announce/) documents the platform's current direction.
+* **[LangGraph](https://github.com/langchain-ai/langgraph) ⭐ 43,936 | 🐛 499 | 🌐 Python | 📅 2026-10-26** — A stateful graph runtime for durable execution, checkpoints, interrupts, streaming, and human-in-the-loop agent workflows.
+* **[OpenAI Agents SDK](https://github.com/openai/openai-agents-python) ⭐ 30,301 | 🐛 25 | 🌐 Python | 📅 2026-10-22** — A runtime for tools, handoffs, guardrails, sessions, tracing, and multi-agent workflows. OpenAI's [2026 architecture update](https://openai.com/index/the-next-evolution-of-the-agents-sdk/) extends the same runtime toward longer-lived, stateful work.
+* **[Mastra](https://github.com/mastra-ai/mastra) ⭐ 29,094 | 🐛 621 | 🌐 TypeScript | 📅 2026-10-26** — A TypeScript-native application runtime with autonomous agents, graph workflows, tools and MCP, stored suspend/resume state, memory, observability, and built-in evaluation.
+* **[Google ADK](https://github.com/google/adk-python) ⭐ 22,015 | 🐛 406 | 🌐 Python | 📅 2026-10-26** — An agent development kit with workflow agents, tools, sessions, callbacks, evaluation, and deployment integrations.
+* **[Microsoft Agent Framework](https://github.com/microsoft/agent-framework) ⭐ 14,328 | 🐛 826 | 🌐 Python | 📅 2026-10-26** — Microsoft's runtime for agents, workflows, middleware, memory, tools, observability, and evaluation; its [Build 2026 update](https://devblogs.microsoft.com/agent-framework/microsoft-agent-framework-at-build-2026-announce/) documents the platform's current direction.
 
 #### Persistent, meta, OS, and operational harnesses
 
-* **[Hermes Agent](https://github.com/nousresearch/hermes-agent) ⭐ 257,006 | 🐛 51,025 | 🌐 Python | 📅 2026-10-25** — A persistent personal-agent runtime with memory, agent-created skills, multi-channel gateways, several sandbox backends, subagents, approvals, checkpoints, context compression, trajectories, and batch evaluation. [Docs](https://hermes-agent.nousresearch.com/docs/)
-* **[DeerFlow](https://github.com/bytedance/deer-flow) ⭐ 84,413 | 🐛 950 | 🌐 Python | 📅 2026-10-25** — A modular agent harness for research and coding workflows with subagents, skills, memory, sandbox execution, and long-running tasks.
-* **[Omnigent](https://github.com/omnigent-ai/omnigent) ⭐ 11,040 | 🐛 2,404 | 🌐 Python | 📅 2026-10-25** — A general agent platform joining tool use, state, memory, policy, and multi-surface execution.
-* **[TrueForge](https://github.com/truefoundry/trueforge) ⭐ 6,371 | 🐛 98 | 🌐 TypeScript | 📅 2026-10-24** — A self-hosted, vendor-neutral runtime and control plane spanning model calls, MCP and skills, sandboxing, approvals, deferred tools, context compaction, persistent sessions, identity, inspection, and reproducible experiments. [Engineering note](https://www.truefoundry.com/blog/engineering/trueforge-open-source-agent-harness/)
-* **[LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,776 | 🐛 20 | 🌐 Python | 📅 2026-10-21** — A meta-harness that wraps existing coding agents in plan–act–verify, durable state, role isolation, audit, checkpoint, and recovery loops. [Paper](https://arxiv.org/abs/2608.01964)
-* **[oh-my-agent](https://github.com/first-fluke/oh-my-agent) ⭐ 1,354 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-24** — An open-source harness layered on existing coding agents that installs into 14 runtimes (Claude Code, Codex CLI, Cursor and others), shares skills from one `.agents/skills/` folder with supported runtimes, and has an optional Stop hook that runs the project's typecheck, test or lint script before the agent finishes.
-* **[CUGA](https://github.com/cuga-project/cuga-agent) ⭐ 1,049 | 🐛 286 | 🌐 Python | 📅 2026-10-25** — IBM Research's open-source generalist agent harness on LangGraph that runs API (OpenAPI, MCP, LangChain tools), web, and hybrid tasks under configurable policies (intent guard, playbooks, tool approval), with skills, A2A sub-agents, and ACP. [Paper](https://arxiv.org/abs/2510.23856)
-* **[SandBase](https://github.com/sandbaseai/sandbase-harness) ⭐ 635 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-18** — A local-first operations and security control plane with resumable sessions, audit and replay, MCP toolsets, credential and approval policy, several sandbox backends, typed SDKs, and conformance tests.
+* **[Hermes Agent](https://github.com/nousresearch/hermes-agent) ⭐ 257,360 | 🐛 51,229 | 🌐 Python | 📅 2026-10-26** — A persistent personal-agent runtime with memory, agent-created skills, multi-channel gateways, several sandbox backends, subagents, approvals, checkpoints, context compression, trajectories, and batch evaluation. [Docs](https://hermes-agent.nousresearch.com/docs/)
+* **[DeerFlow](https://github.com/bytedance/deer-flow) ⭐ 84,449 | 🐛 953 | 🌐 Python | 📅 2026-10-26** — A modular agent harness for research and coding workflows with subagents, skills, memory, sandbox execution, and long-running tasks.
+* **[Omnigent](https://github.com/omnigent-ai/omnigent) ⭐ 11,066 | 🐛 2,468 | 🌐 Python | 📅 2026-10-26** — A general agent platform joining tool use, state, memory, policy, and multi-surface execution.
+* **[TrueForge](https://github.com/truefoundry/trueforge) ⭐ 6,383 | 🐛 101 | 🌐 TypeScript | 📅 2026-10-26** — A self-hosted, vendor-neutral runtime and control plane spanning model calls, MCP and skills, sandboxing, approvals, deferred tools, context compaction, persistent sessions, identity, inspection, and reproducible experiments. [Engineering note](https://www.truefoundry.com/blog/engineering/trueforge-open-source-agent-harness/)
+* **[LongHorizon-Harness](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,779 | 🐛 20 | 🌐 Python | 📅 2026-10-21** — A meta-harness that wraps existing coding agents in plan–act–verify, durable state, role isolation, audit, checkpoint, and recovery loops. [Paper](https://arxiv.org/abs/2608.01964)
+* **[oh-my-agent](https://github.com/first-fluke/oh-my-agent) ⭐ 1,354 | 🐛 0 | 🌐 TypeScript | 📅 2026-10-26** — An open-source harness layered on existing coding agents that installs into 14 runtimes (Claude Code, Codex CLI, Cursor and others), shares skills from one `.agents/skills/` folder with supported runtimes, and has an optional Stop hook that runs the project's typecheck, test or lint script before the agent finishes.
+* **[CUGA](https://github.com/cuga-project/cuga-agent) ⭐ 1,051 | 🐛 291 | 🌐 Python | 📅 2026-10-26** — IBM Research's open-source generalist agent harness on LangGraph that runs API (OpenAPI, MCP, LangChain tools), web, and hybrid tasks under configurable policies (intent guard, playbooks, tool approval), with skills, A2A sub-agents, and ACP. [Paper](https://arxiv.org/abs/2510.23856)
+* **[SandBase](https://github.com/sandbaseai/sandbase-harness) ⭐ 636 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-18** — A local-first operations and security control plane with resumable sessions, audit and replay, MCP toolsets, credential and approval policy, several sandbox backends, typed SDKs, and conformance tests.
 * **[AOHP](https://github.com/aohp-os/aohp) ⭐ 156 | 🐛 2 | 🌐 Python | 📅 2026-07-23** — An OS-level harness for personalized interaction, local resources, efficiency, and security boundaries.
 
 #### Workplace and personal-agent harnesses
 
-* **[OpenJarvis](https://github.com/open-jarvis/OpenJarvis) ⭐ 12,037 | 🐛 68 | 🌐 Python | 📅 2026-10-25** — A local-first, on-device personal-agent stack with typed runtime primitives, multiple agent loops, tools and MCP, sandboxing, several memory backends, scheduled operatives, full traces, trace-driven routing, and joint accuracy, latency, energy, and cost evaluation. [Paper](https://arxiv.org/abs/2605.17172)
+* **[OpenJarvis](https://github.com/open-jarvis/OpenJarvis) ⭐ 12,130 | 🐛 74 | 🌐 Python | 📅 2026-10-26** — A local-first, on-device personal-agent stack with typed runtime primitives, multiple agent loops, tools and MCP, sandboxing, several memory backends, scheduled operatives, full traces, trace-driven routing, and joint accuracy, latency, energy, and cost evaluation. [Paper](https://arxiv.org/abs/2605.17172)
 * **[WorkBuddy](https://www.workbuddy.ai/)** — Tencent Cloud's office harness plans and executes cross-tool work across messaging, documents, mail, meetings, and knowledge bases. Its [open platform](https://open.workbuddy.cn/en/docs/buddy-app) and [managed-agent runtime](https://cloud.tencent.com/document/product/1831/138968) expose skills, MCP/OAuth/A2A, multi-agent orchestration, context compression, memory, isolated execution, recovery, traces, evaluation, and lifecycle governance.
 * **[Muse](https://muse.ai/)** — Meta's personal-agent harness runs each agent in a persistent isolated VM with a browser, filesystem, terminal, memory, connected apps, self-built tools, scheduled and event-driven work, action approvals, credential isolation, and a complete activity trail. [Design account](https://introducing.muse.ai/) · [Launch and security architecture](https://about.fb.com/news/2026/09/introducing-muse-personal-ai-agent)
 * **[Amazon Quick](https://aws.amazon.com/about-aws/whats-new/2026/06/amazon-quick/)** — A workplace harness combining autonomous background agents, reusable flows, enterprise data spaces, granular autonomy, identity propagation, approvals, monitoring, and [test runs with logs and watch variables](https://docs.aws.amazon.com/quick/latest/userguide/automate-custom-agents.html).
@@ -252,7 +252,7 @@ The four featured systems above are joined by ten coding harnesses in the compar
 
 These systems remain in the index while their public architecture, maturity, or independent analysis unit is still emerging.
 
-* **[nanoMuse](https://github.com/nano-muse/nanoMuse) ⭐ 2,576 | 🐛 96 | 🌐 Swift | 📅 2026-10-25** — A new open personal agent spanning phones and desktops with scheduled goals, editable memory, and risk gates; parts of the system build on DeepSeek Harness and OpenMinis. [Paper](https://arxiv.org/abs/2610.08699)
+* **[nanoMuse](https://github.com/nano-muse/nanoMuse) ⭐ 2,638 | 🐛 103 | 🌐 Swift | 📅 2026-10-26** — A new open personal agent spanning phones and desktops with scheduled goals, editable memory, and risk gates; parts of the system build on DeepSeek Harness and OpenMinis. [Paper](https://arxiv.org/abs/2610.08699)
 * **[Microsoft Copilot Autopilot](https://blogs.microsoft.com/blog/2026/09/25/introducing-the-new-copilot-with-home-code-and-autopilot/)** — A preview workplace agent with its own identity, memory, computer, workspace, and enterprise governance; public tool and evaluation documentation is still limited.
 * **[Google Workspace Studio](https://workspace.google.com/blog/product-announcements/introducing-google-workspace-studio-agents-for-everyday-work)** — An agentic workplace flow builder with a 2026 [least-privilege, HITL, DLP, drift-detection, and audit update](https://workspace.google.com/blog/identity-and-security/defend-against-agentic-risks-with-multi-layered-protections-in-google-workspace-studio).
 * **[Claude Tag](https://www.anthropic.com/news/introducing-claude-tag)** — A shared, persistent workplace interaction built from Claude Code and Cowork concepts; treated as a product surface of that lineage until a distinct runtime boundary is documented.
@@ -261,54 +261,54 @@ These systems remain in the index while their public architecture, maturity, or 
 
 #### Extended catalog
 
-* **[Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 108,379 | 🐛 766 | 🌐 TypeScript | 📅 2026-10-25** — Google's earlier open-source terminal agent. Its consumer service migrated to Antigravity CLI in June 2026; the repository remains useful as an architectural lineage. [Migration notice](https://github.com/google-gemini/gemini-cli/discussions/27274) ⭐ 108,379 | 🐛 766 | 🌐 TypeScript | 📅 2026-10-25
-* **[MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 71,014 | 🐛 138 | 🌐 Python | 📅 2026-01-21** — A multi-agent software workflow organized around roles, standard operating procedures, and shared artifacts.
-* **[AutoGen](https://github.com/microsoft/autogen) ⭐ 61,558 | 🐛 1,121 | 🌐 Python | 📅 2026-10-16** — An event-driven framework for conversational and multi-agent applications.
-* **[Aider](https://github.com/Aider-AI/aider) ⭐ 49,748 | 🐛 1,942 | 🌐 Python | 📅 2026-05-22** — Terminal pair programming with repository maps, edit formats, git integration, and broad model support.
-* **[ChatDev](https://github.com/OpenBMB/ChatDev) ⭐ 34,587 | 🐛 88 | 🌐 Python | 📅 2026-10-16** — A virtual software company that coordinates specialized agents through a staged development process.
-* **[SWE-agent](https://github.com/SWE-agent/SWE-agent) ⭐ 20,635 | 🐛 168 | 🌐 Python | 📅 2026-10-19** — An agent-computer interface designed for solving software-engineering issues in repository environments.
-* **[CAMEL](https://github.com/camel-ai/camel) ⭐ 17,972 | 🐛 552 | 🌐 Python | 📅 2026-10-19** — A multi-agent framework for role-playing, tool use, memory, and agent societies.
-* **[QM](https://github.com/yc-software/qm) ⭐ 15,533 | 🐛 1,040 | 🌐 TypeScript | 📅 2026-10-25** — An open coding-agent project exploring autonomous repository work and tool-driven development.
-* **[Open SWE](https://github.com/langchain-ai/open-swe) ⭐ 11,101 | 🐛 227 | 🌐 Python | 📅 2026-10-25** — An open-source asynchronous coding-agent reference built for delegated repository work.
-* **[mini-SWE-agent](https://github.com/SWE-agent/mini-swe-agent) ⭐ 8,818 | 🐛 121 | 🌐 Python | 📅 2026-10-19** — A deliberately minimal software-engineering agent with a short linear loop, multiple sandbox backends, trajectory inspection, and broad benchmark use; the SWE-agent maintainers recommend it for new work.
-* **[AIOS](https://github.com/agiresearch/AIOS) ⭐ 6,506 | 🐛 64 | 🌐 Python | 📅 2026-07-20** — A research operating-system architecture that separates an agent kernel from the Cerebrum SDK and mediates models, tools, memory, storage, and access control; it remains historically important, while its analysis unit and incomplete public lifecycle/evaluation evidence differ from the full runtime matrix.
-* **[Raven](https://github.com/EverMind-AI/Raven) ⭐ 5,815 | 🐛 83 | 🌐 Python | 📅 2026-10-25** — A composable “harness of harnesses” for assembling and coordinating agent capabilities.
-* **[Eve](https://github.com/vercel/eve) ⭐ 5,670 | 🐛 789 | 🌐 TypeScript | 📅 2026-10-25** — Vercel's open agent project for iterative software work and execution-driven feedback.
-* **[Shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,492 | 🐛 13 | 🌐 Python | 📅 2026-09-09** — An agent orchestration project for coordinating development tasks and specialized workers.
+* **[Gemini CLI](https://github.com/google-gemini/gemini-cli) ⭐ 108,548 | 🐛 787 | 🌐 TypeScript | 📅 2026-10-26** — Google's earlier open-source terminal agent. Its consumer service migrated to Antigravity CLI in June 2026; the repository remains useful as an architectural lineage. [Migration notice](https://github.com/google-gemini/gemini-cli/discussions/27274) ⭐ 108,548 | 🐛 787 | 🌐 TypeScript | 📅 2026-10-26
+* **[MetaGPT](https://github.com/geekan/MetaGPT) ⭐ 71,029 | 🐛 137 | 🌐 Python | 📅 2026-01-21** — A multi-agent software workflow organized around roles, standard operating procedures, and shared artifacts.
+* **[AutoGen](https://github.com/microsoft/autogen) ⭐ 61,574 | 🐛 1,124 | 🌐 Python | 📅 2026-10-16** — An event-driven framework for conversational and multi-agent applications.
+* **[Aider](https://github.com/Aider-AI/aider) ⭐ 49,767 | 🐛 1,943 | 🌐 Python | 📅 2026-05-22** — Terminal pair programming with repository maps, edit formats, git integration, and broad model support.
+* **[ChatDev](https://github.com/OpenBMB/ChatDev) ⭐ 34,591 | 🐛 89 | 🌐 Python | 📅 2026-10-16** — A virtual software company that coordinates specialized agents through a staged development process.
+* **[SWE-agent](https://github.com/SWE-agent/SWE-agent) ⭐ 20,643 | 🐛 169 | 🌐 Python | 📅 2026-10-19** — An agent-computer interface designed for solving software-engineering issues in repository environments.
+* **[CAMEL](https://github.com/camel-ai/camel) ⭐ 17,980 | 🐛 554 | 🌐 Python | 📅 2026-10-19** — A multi-agent framework for role-playing, tool use, memory, and agent societies.
+* **[QM](https://github.com/yc-software/qm) ⭐ 15,539 | 🐛 1,071 | 🌐 TypeScript | 📅 2026-10-26** — An open coding-agent project exploring autonomous repository work and tool-driven development.
+* **[Open SWE](https://github.com/langchain-ai/open-swe) ⭐ 11,117 | 🐛 215 | 🌐 Python | 📅 2026-10-26** — An open-source asynchronous coding-agent reference built for delegated repository work.
+* **[mini-SWE-agent](https://github.com/SWE-agent/mini-swe-agent) ⭐ 8,855 | 🐛 122 | 🌐 Python | 📅 2026-10-19** — A deliberately minimal software-engineering agent with a short linear loop, multiple sandbox backends, trajectory inspection, and broad benchmark use; the SWE-agent maintainers recommend it for new work.
+* **[AIOS](https://github.com/agiresearch/AIOS) ⭐ 6,513 | 🐛 64 | 🌐 Python | 📅 2026-07-20** — A research operating-system architecture that separates an agent kernel from the Cerebrum SDK and mediates models, tools, memory, storage, and access control; it remains historically important, while its analysis unit and incomplete public lifecycle/evaluation evidence differ from the full runtime matrix.
+* **[Raven](https://github.com/EverMind-AI/Raven) ⭐ 5,850 | 🐛 74 | 🌐 Python | 📅 2026-10-26** — A composable “harness of harnesses” for assembling and coordinating agent capabilities.
+* **[Eve](https://github.com/vercel/eve) ⭐ 5,682 | 🐛 763 | 🌐 TypeScript | 📅 2026-10-26** — Vercel's open agent project for iterative software work and execution-driven feedback.
+* **[Shepherd](https://github.com/shepherd-agents/shepherd) ⭐ 2,493 | 🐛 13 | 🌐 Python | 📅 2026-09-09** — An agent orchestration project for coordinating development tasks and specialized workers.
 * **[YYLO](https://github.com/yylo-dev/yylo) ⭐ 66 | 🐛 15 | 🌐 Python | 📅 2026-10-23** — A CLI for orchestrating coding agents with plugins, evidence capture, and longitudinal workflows.
 
 #### Long-horizon and domain-specific harnesses
 
 * **[CheetahClaws](https://github.com/SAIL-Research-Lab/cheetahclaws) ⭐ 791 | 🐛 28 | 🌐 Python | 📅 2026-10-12** — A research harness for system-level scaling around fixed models, including orchestration, tools, context, and parallel work. [Paper](https://arxiv.org/abs/2605.26112)
-* **[DataFlow-Harness](https://github.com/OpenDCAI/DataFlow-WebUI) ⭐ 253 | 🐛 3 | 🌐 Python | 📅 2026-08-26** — A data-centric harness for composing, running, and evaluating agentic data workflows. [Paper](https://arxiv.org/abs/2607.16617)
-* **[RobotUse](https://github.com/robotuse-team/RobotUse) ⭐ 6 | 🐛 0 | 🌐 Python | 📅 2026-10-14** — A robot agent harness combining visual target and pose selection, subagent-local interaction histories, and persistent playbooks for learning from execution, with geometry, motion planning, and control handled by the backend. [Paper](https://arxiv.org/abs/2610.04929) · [Project](https://robotuse-team.github.io/)
+* **[DataFlow-Harness](https://github.com/OpenDCAI/DataFlow-WebUI) ⭐ 254 | 🐛 3 | 🌐 Python | 📅 2026-08-26** — A data-centric harness for composing, running, and evaluating agentic data workflows. [Paper](https://arxiv.org/abs/2607.16617)
+* **[RobotUse](https://github.com/robotuse-team/RobotUse) ⭐ 7 | 🐛 0 | 🌐 Python | 📅 2026-10-14** — A robot agent harness combining visual target and pose selection, subagent-local interaction histories, and persistent playbooks for learning from execution, with geometry, motion planning, and control handled by the backend. [Paper](https://arxiv.org/abs/2610.04929) · [Project](https://robotuse-team.github.io/)
 
 #### Durable execution, protocols, and sandbox substrates
 
 These projects provide infrastructure that a harness can run on or connect through. They are listed separately because durable execution, protocol hosting, or sandboxing does not by itself constitute a complete agent harness.
 
-* **[Google AX](https://github.com/google/ax) ⭐ 14,076 | 🐛 96 | 🌐 Go | 📅 2026-10-25** — Durable execution infrastructure for distributed, long-running agents; Google's [Agent Executor architecture](https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/) explicitly supports bringing an existing harness.
-* **[Agent Substrate](https://github.com/agent-substrate/substrate) ⭐ 5,783 | 🐛 878 | 🌐 Go | 📅 2026-10-25** — A persistence substrate with event logs, snapshots, branching, suspension, and resumption for agent runtimes.
-* **[Agent Host Protocol](https://github.com/microsoft/agent-host-protocol) ⭐ 414 | 🐛 74 | 🌐 TypeScript | 📅 2026-10-23** — A transport and protocol boundary between coding agents and host surfaces.
+* **[Google AX](https://github.com/google/ax) ⭐ 14,103 | 🐛 98 | 🌐 Go | 📅 2026-10-25** — Durable execution infrastructure for distributed, long-running agents; Google's [Agent Executor architecture](https://cloud.google.com/blog/products/ai-machine-learning/agent-executor-googles-distributed-agent-runtime/) explicitly supports bringing an existing harness.
+* **[Agent Substrate](https://github.com/agent-substrate/substrate) ⭐ 5,823 | 🐛 893 | 🌐 Go | 📅 2026-10-26** — A persistence substrate with event logs, snapshots, branching, suspension, and resumption for agent runtimes.
+* **[Agent Host Protocol](https://github.com/microsoft/agent-host-protocol) ⭐ 416 | 🐛 73 | 🌐 TypeScript | 📅 2026-10-26** — A transport and protocol boundary between coding agents and host surfaces.
 * **[VS Code Agent Host](https://code.visualstudio.com/blogs/2026/08/26/agent-host-architecture)** — An editor-side host for coordinating coding-agent sessions, tools, permissions, and lifecycle events.
 
 #### Capability modules and research patterns
 
 These projects are evaluated for their focused capability or research pattern rather than full-stack component coverage.
 
-* **[MemGPT](https://github.com/cpacker/MemGPT) ⭐ 25,253 | 🐛 0 | 📅 2026-10-18** — Tiered memory and context management inspired by operating systems.
+* **[MemGPT](https://github.com/cpacker/MemGPT) ⭐ 25,264 | 🐛 0 | 📅 2026-10-18** — Tiered memory and context management inspired by operating systems.
 * **[Generative Agents](https://github.com/joonspk-research/generative_agents) ⭐ 22,291 | 🐛 146 | 📅 2024-08-05** — Memory, reflection, and planning for believable social agents.
-* **[Harness²](https://github.com/google-research/harness2) ⭐ 19,508 | 🐛 132 | 🌐 Python | 📅 2026-10-14** — Early research code for proposing, probing, and composing persistent changes to prompts, guardrails, memory, tool guidance, subagents, skills, scripts, and plugins.
-* **[SkillOpt](https://github.com/microsoft/SkillOpt) ⭐ 18,670 | 🐛 58 | 🌐 Python | 📅 2026-10-23** — Bounded skill optimization from scored trajectories with evaluation gates.
-* **[Voyager](https://github.com/MineDojo/Voyager) ⭐ 7,287 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03** — Open-ended skill acquisition, curriculum generation, and reusable code skills.
-* **[Reflexion](https://github.com/noahshinn/reflexion) ⭐ 3,316 | 🐛 24 | 🌐 Python | 📅 2025-01-14** — Verbal feedback and reflective memory across trials.
-* **[Concordia](https://github.com/google-deepmind/concordia) ⭐ 1,825 | 🐛 56 | 🌐 Python | 📅 2026-10-20** — A library for generative agent-based simulations grounded in physical, social, or digital worlds.
+* **[Harness²](https://github.com/google-research/harness2) ⭐ 20,110 | 🐛 132 | 🌐 Python | 📅 2026-10-14** — Early research code for proposing, probing, and composing persistent changes to prompts, guardrails, memory, tool guidance, subagents, skills, scripts, and plugins.
+* **[SkillOpt](https://github.com/microsoft/SkillOpt) ⭐ 18,701 | 🐛 52 | 🌐 Python | 📅 2026-10-25** — Bounded skill optimization from scored trajectories with evaluation gates.
+* **[Voyager](https://github.com/MineDojo/Voyager) ⭐ 7,292 | 🐛 7 | 🌐 JavaScript | 📅 2024-04-03** — Open-ended skill acquisition, curriculum generation, and reusable code skills.
+* **[Reflexion](https://github.com/noahshinn/reflexion) ⭐ 3,320 | 🐛 24 | 🌐 Python | 📅 2025-01-14** — Verbal feedback and reflective memory across trials.
+* **[Concordia](https://github.com/google-deepmind/concordia) ⭐ 1,829 | 🐛 61 | 🌐 Python | 📅 2026-10-20** — A library for generative agent-based simulations grounded in physical, social, or digital worlds.
 
 #### Evaluation infrastructure
 
-* **[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,313 | 🐛 1,248 | 🌐 Python | 📅 2026-09-14** — A widely used evaluation runner for language models; included as the lineage and naming reference for modern agent harness evaluation.
-* **[Harbor](https://github.com/harbor-framework/harbor) ⭐ 6,462 | 🐛 1,165 | 🌐 Python | 📅 2026-10-23** — Interchangeable agents, models, datasets, container environments, traces, and parallel rollouts. [Paper](https://arxiv.org/abs/2609.04298)
-* **[BrowserGym](https://github.com/ServiceNow/BrowserGym) ⭐ 1,416 | 🐛 44 | 🌐 Python | 📅 2026-10-21** — A common environment and evaluation layer for web-agent research.
+* **[lm-evaluation-harness](https://github.com/EleutherAI/lm-evaluation-harness) ⭐ 14,320 | 🐛 1,261 | 🌐 Python | 📅 2026-09-14** — A widely used evaluation runner for language models; included as the lineage and naming reference for modern agent harness evaluation.
+* **[Harbor](https://github.com/harbor-framework/harbor) ⭐ 6,491 | 🐛 1,162 | 🌐 Python | 📅 2026-10-26** — Interchangeable agents, models, datasets, container environments, traces, and parallel rollouts. [Paper](https://arxiv.org/abs/2609.04298)
+* **[BrowserGym](https://github.com/ServiceNow/BrowserGym) ⭐ 1,419 | 🐛 47 | 🌐 Python | 📅 2026-10-21** — A common environment and evaluation layer for web-agent research.
 * **[HAL](https://arxiv.org/abs/2510.11977)** — Unified agent execution, evaluation, and leaderboard infrastructure.
 * **[AgentCompass](https://arxiv.org/abs/2607.13705)** — Infrastructure that separates benchmark, harness, and environment for reproducible agent evaluation.
 
@@ -368,7 +368,7 @@ Environment drift, task ambiguity and harness coupling can complicate attributio
 
 ### 6. Evaluation infrastructure
 
-* **[Harbor](https://github.com/harbor-framework/harbor) ⭐ 6,462 | 🐛 1,165 | 🌐 Python | 📅 2026-10-23** — Runs interchangeable agents and models in containerized datasets with traces and parallel rollouts.
+* **[Harbor](https://github.com/harbor-framework/harbor) ⭐ 6,491 | 🐛 1,162 | 🌐 Python | 📅 2026-10-26** — Runs interchangeable agents and models in containerized datasets with traces and parallel rollouts.
 * **[AgentCompass](https://arxiv.org/abs/2607.13705)** — Makes benchmark, harness, and environment explicit experimental units.
 * **[HAL](https://arxiv.org/abs/2510.11977)** — Supplies unified execution and leaderboard infrastructure for agent evaluation.
 
@@ -376,11 +376,11 @@ Environment drift, task ambiguity and harness coupling can complicate attributio
 
 These benchmarks ask **what tasks an agent can complete**. Harness studies use them as task substrates and add controls that isolate the runtime as an experimental variable.
 
-* **[SWE-bench](https://github.com/swe-bench/SWE-bench) ⭐ 6,083 | 🐛 52 | 🌐 Python | 📅 2026-09-18** — Real GitHub issues resolved against executable repositories.
-* **[OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,234 | 🐛 183 | 🌐 Python | 📅 2026-10-24** — Open-ended computer tasks in real operating-system environments.
+* **[SWE-bench](https://github.com/swe-bench/SWE-bench) ⭐ 6,092 | 🐛 52 | 🌐 Python | 📅 2026-09-18** — Real GitHub issues resolved against executable repositories.
+* **[OSWorld](https://github.com/xlang-ai/OSWorld) ⭐ 3,236 | 🐛 186 | 🌐 Python | 📅 2026-10-26** — Open-ended computer tasks in real operating-system environments.
 * **[WebArena](https://github.com/web-arena-x/webarena) ⭐ 1,635 | 🐛 106 | 🌐 Python | 📅 2025-11-26** — Realistic websites and end-to-end tasks for autonomous web agents.
-* **[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,113 | 🐛 53 | 🌐 Python | 📅 2026-10-23** — Everyday online tasks for personal and computer-use agents. [Paper](https://arxiv.org/abs/2604.08523)
-* **[EC2-Bench](https://github.com/OpenBMB/EC2-Bench) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-10-24** — OpenClaw workspace tasks run by an edge model that can call a cloud model; compares who controls cloud invocation (external router vs. edge agent) on completion, cost, and privacy exposure. [Paper](https://arxiv.org/abs/2610.17816)
+* **[ClawBench](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,125 | 🐛 53 | 🌐 Python | 📅 2026-10-23** — Everyday online tasks for personal and computer-use agents. [Paper](https://arxiv.org/abs/2604.08523)
+* **[EC2-Bench](https://github.com/OpenBMB/EC2-Bench) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-10-24** — OpenClaw workspace tasks run by an edge model that can call a cloud model; compares who controls cloud invocation (external router vs. edge agent) on completion, cost, and privacy exposure. [Paper](https://arxiv.org/abs/2610.17816)
 * **[RoboQuest](https://github.com/declare-lab/RoboQuest) ⭐ 8 | 🐛 0 | 🌐 Python | 📅 2026-10-08** — Simulated mobile-manipulation tasks for multimodal agents acting through tool calls; hidden information must be found by searching, inspecting, or testing. [Paper](https://arxiv.org/abs/2610.10388)
 * **[AgencyBench](https://arxiv.org/abs/2601.11044)** — Long-context, consequential tasks for autonomous agents; report its aggregate and ecosystem-specific findings separately.
 * **[GAIA](https://arxiv.org/abs/2311.12983)** — General-assistant questions that require reasoning, tools, and multiple modalities.
@@ -398,14 +398,14 @@ These benchmarks ask **what tasks an agent can complete**. Harness studies use t
 #### RL Environment Harnesses (2016–2022)
 
 * <u>OpenAI Gym</u>: **"OpenAI Gym"**. *Brockman et al.* arXiv 2016. \[[Paper](https://arxiv.org/abs/1606.01540)] \[[Code](https://github.com/openai/gym) ⚠️ Archived]
-* <u>Gymnasium</u>: **"Gymnasium: A Standard Interface for Reinforcement Learning Environments"**. *Towers et al.* NeurIPS 2025. \[[Paper](https://arxiv.org/abs/2407.17032)] \[[Code](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,727 | 🐛 124 | 🌐 Python | 📅 2026-10-24]
+* <u>Gymnasium</u>: **"Gymnasium: A Standard Interface for Reinforcement Learning Environments"**. *Towers et al.* NeurIPS 2025. \[[Paper](https://arxiv.org/abs/2407.17032)] \[[Code](https://github.com/Farama-Foundation/Gymnasium) ⭐ 12,733 | 🐛 125 | 🌐 Python | 📅 2026-10-26]
 
 #### Early LLM Agent Frameworks (2023–2024)
 
-* <u>AutoGPT</u>: **"Auto-GPT: An Autonomous GPT-4 Experiment"**. *Gravitas et al.* GitHub 2023. \[[Code](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,747 | 🐛 718 | 🌐 Python | 📅 2026-10-25]
-* <u>LangChain</u>: **"LangChain: Building Applications with LLMs through Composability"**. *Chase et al.* GitHub 2022. \[[Code](https://github.com/langchain-ai/langchain) ⭐ 148,422 | 🐛 676 | 🌐 Python | 📅 2026-10-25]
+* <u>AutoGPT</u>: **"Auto-GPT: An Autonomous GPT-4 Experiment"**. *Gravitas et al.* GitHub 2023. \[[Code](https://github.com/Significant-Gravitas/AutoGPT) ⭐ 187,776 | 🐛 714 | 🌐 Python | 📅 2026-10-26]
+* <u>LangChain</u>: **"LangChain: Building Applications with LLMs through Composability"**. *Chase et al.* GitHub 2022. \[[Code](https://github.com/langchain-ai/langchain) ⭐ 148,505 | 🐛 678 | 🌐 Python | 📅 2026-10-26]
 * <u>BabyAGI</u>: **"BabyAGI"**. *Nakajima.* GitHub 2023. \[[Code](https://github.com/yoheinakajima/babyagi) ⭐ 22,356 | 🐛 33 | 🌐 Python | 📅 2026-01-31]
-* <u>ReAct</u>: **"ReAct: Synergizing Reasoning and Acting in Language Models"**. *Yao et al.* ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)] \[[Code](https://github.com/ysymyth/ReAct) ⭐ 4,247 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06]
+* <u>ReAct</u>: **"ReAct: Synergizing Reasoning and Acting in Language Models"**. *Yao et al.* ICLR 2023. \[[Paper](https://arxiv.org/abs/2210.03629)] \[[Code](https://github.com/ysymyth/ReAct) ⭐ 4,246 | 🐛 5 | 🌐 Jupyter Notebook | 📅 2024-02-06]
 * <u>Toolformer</u>: **"Toolformer: Language Models Can Teach Themselves to Use Tools"**. *Schick et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2302.04761)]
 * <u>HuggingGPT</u>: **"HuggingGPT: Solving AI Tasks with ChatGPT and Its Friends in Hugging Face"**. *Shen et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2303.17580)]
 
@@ -451,8 +451,8 @@ The hardest harness problems appear where execution, context, state, permissions
 
 > **Evidence focus:** Harness evaluation must report the runtime, environment, task version, budget, trajectory capture, and evaluator together. HAL, OSWorld, and METR illustrate different failure sources: execution variance, evaluator error, and disagreement between benchmark acceptance and human review.
 
-* <u>ClawBench</u>†: **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"**. *Zhang et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,113 | 🐛 53 | 🌐 Python | 📅 2026-10-23] \[[Project](https://claw-bench.com/)]
-* <u>EC2-Bench</u>†: **"Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution"**. *Huang et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2610.17816)] \[[Code](https://github.com/OpenBMB/EC2-Bench) ⭐ 20 | 🐛 0 | 🌐 Python | 📅 2026-10-24] \[[Project](https://passionate11.github.io/ec2-bench-project-page/)]
+* <u>ClawBench</u>†: **"ClawBench: Can AI Agents Complete Everyday Online Tasks?"**. *Zhang et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2604.08523)] \[[Code](https://github.com/TIGER-AI-Lab/ClawBench) ⭐ 1,125 | 🐛 53 | 🌐 Python | 📅 2026-10-23] \[[Project](https://claw-bench.com/)]
+* <u>EC2-Bench</u>†: **"Empowering Edge Agents: A Systematic Analysis of Edge-Cloud Collaboration in LLM Agent Execution"**. *Huang et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2610.17816)] \[[Code](https://github.com/OpenBMB/EC2-Bench) ⭐ 21 | 🐛 0 | 🌐 Python | 📅 2026-10-24] \[[Project](https://passionate11.github.io/ec2-bench-project-page/)]
 * <u>PerspectiveGap</u>†: **"PerspectiveGap: A Benchmark for Multi-Agent Orchestration Prompting"**. *Sun et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2606.08878)] \[[Code](https://github.com/WhymustIhaveaname/PerspectiveGap) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-07-27]
 * <u>AgencyBench</u>†: **"AgencyBench: Benchmarking the Frontiers of Autonomous Agents in 1M-Token Real-World Contexts"**. *Li et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2601.11044)]
 * <u>AEGIS</u>†: **"AEGIS: No Tool Call Left Unchecked -- A Pre-Execution Firewall and Audit Layer for AI Agents"**. *Yuan et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.12621)]
@@ -479,7 +479,7 @@ The hardest harness problems appear where execution, context, state, permissions
 
 > **Evidence focus:** MCP, A2A, ACP, and related protocols operate at different interface layers. Their utility depends on semantics, state handling, authorization, error behavior, and testable interoperability, rather than protocol names alone.
 
-* <u>Gorilla</u>: **"Gorilla: Large Language Model Connected with Massive APIs"**. *Patil et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.15334)] \[[Code](https://github.com/ShishirPatil/gorilla) ⭐ 13,059 | 🐛 294 | 🌐 Python | 📅 2026-10-17]
+* <u>Gorilla</u>: **"Gorilla: Large Language Model Connected with Massive APIs"**. *Patil et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.15334)] \[[Code](https://github.com/ShishirPatil/gorilla) ⭐ 13,060 | 🐛 294 | 🌐 Python | 📅 2026-10-17]
 * <u>MCP</u>: **"Model Context Protocol"**. *Anthropic.* Technical Report 2024. \[[Spec](https://modelcontextprotocol.io)]
 * <u>A2A</u>: **"Agent-to-Agent Protocol"**. *Google.* Technical Report 2025. \[[Spec](https://a2a-protocol.org/latest/)] \[[Announcement](https://developers.googleblog.com/en/a2a-a-new-era-of-agent-interoperability/)]
 * <u>Protocol Comparison</u>†: **"A Survey of Agent Interoperability Protocols: Model Context Protocol (MCP), Agent Communication Protocol (ACP), Agent-to-Agent Protocol (A2A), and Agent Network Protocol (ANP)"**. *Ehtesham et al.* arXiv 2025. \[[Paper](https://arxiv.org/abs/2505.02279)]
@@ -535,7 +535,7 @@ Tool governance spans registration, selection, dispatch, execution, result handl
 > **Key numbers:** SWE-agent ACI study shows interface design outweighs model capability as the primary performance determinant. LATS integrates MCTS with language model feedback for state-space search. Plan-on-Graph enables adaptive self-correcting planning on knowledge graphs through guidance, memory, and reflection mechanisms.
 
 * <u>Tree of Thoughts</u>: **"Tree of Thoughts: Deliberate Problem Solving with Large Language Models"**. *Yao et al.* NeurIPS 2023. \[[Paper](https://arxiv.org/abs/2305.10601)] \[[Code](https://github.com/princeton-nlp/tree-of-thought-llm) ⭐ 6,083 | 🐛 8 | 🌐 Python | 📅 2025-01-16]
-* <u>LongHorizon-Harness</u>†: **"LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks"**. *Ma et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2608.01964)] \[[Code](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,776 | 🐛 20 | 🌐 Python | 📅 2026-10-21]
+* <u>LongHorizon-Harness</u>†: **"LongHorizon-Harness: Advancing Long-Horizon Agents for Real-World Tasks"**. *Ma et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2608.01964)] \[[Code](https://github.com/AMAP-ML/LongHorizon-Harness) ⭐ 1,779 | 🐛 20 | 🌐 Python | 📅 2026-10-21]
 * <u>LATS</u>: **"Language Agent Tree Search Unifies Reasoning, Acting, and Planning in Language Models"**. *Zhou et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2310.04406)] \[[Code](https://github.com/lapisrocks/LanguageAgentTreeSearch) ⭐ 866 | 🐛 8 | 🌐 Python | 📅 2024-07-30]
 * <u>Steer, Don't Solve</u>†: **"Steer, Don't Solve: Training Small Critic Models for Large Code Agents"**. *Gandhi et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2606.21811)] \[[Code](https://github.com/shubhamrgandhi/critic-training) ⭐ 3 | 🐛 0 | 🌐 Python | 📅 2026-09-03]
 * <u>Plan-on-Graph</u>: **"Plan-on-Graph: Self-Correcting Adaptive Planning of Large Language Model on Knowledge Graphs"**. *Chen et al.* NeurIPS 2024. \[[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/4254e856d01a5e7b7ea050477c3ef9b9-Abstract-Conference.html)]
@@ -593,8 +593,8 @@ Illustrative coordination patterns expose different identity, authority, state-c
 The reported Meta-Harness optimization loop uses candidate harness code, task evaluation, execution traces and accumulated history to inform later proposals. It illustrates harness-level optimization rather than weight updates or unrestricted recursive improvement; no numerical performance claim is made.
 
 * <u>Scaling the Harness</u>†: **"From Model Scaling to System Scaling: Scaling the Harness in Agentic AI"**. *Gu.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2605.26112)] \[[Code](https://github.com/SAIL-Research-Lab/cheetahclaws) ⭐ 791 | 🐛 28 | 🌐 Python | 📅 2026-10-12]
-* <u>DataFlow-Harness</u>†: **"DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines"**. *He et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2607.16617)] \[[Code](https://github.com/OpenDCAI/DataFlow-WebUI) ⭐ 253 | 🐛 3 | 🌐 Python | 📅 2026-08-26]
-* <u>AutoRef</u>†: **"AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation"**. *Oshima et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2609.35530)] \[[Code](https://github.com/KuOnoda/AutoRef) ⭐ 33 | 🐛 0 | 🌐 Python | 📅 2026-09-29]
+* <u>DataFlow-Harness</u>†: **"DataFlow-Harness: A Grounded Code-Agent Platform for Constructing Editable LLM Data Pipelines"**. *He et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2607.16617)] \[[Code](https://github.com/OpenDCAI/DataFlow-WebUI) ⭐ 254 | 🐛 3 | 🌐 Python | 📅 2026-08-26]
+* <u>AutoRef</u>†: **"AutoRef: Harness Optimization for Agentic Multi-Reference Image Generation"**. *Oshima et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2609.35530)] \[[Code](https://github.com/KuOnoda/AutoRef) ⭐ 33 | 🐛 1 | 🌐 Python | 📅 2026-09-29]
 * <u>Harness Engineering for Language Agents</u>†: **"Harness Engineering for Language Agents: The Harness Layer as Control, Agency, and Runtime"**. *He et al.* Preprints 2026. \[[Paper](https://doi.org/10.20944/preprints202603.1756.v2)]
 * <u>DeepAgent</u>†: **"Deepagent: A general reasoning agent with scalable toolsets"**. *Li et al.* arXiv 2025. \[[Paper](https://arxiv.org/abs/2510.21618)]
 * <u>Natural-Language Harnesses</u>†: **"Natural-Language Agent Harnesses"**. *Pan et al.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2603.25723)]
@@ -606,7 +606,7 @@ The reported Meta-Harness optimization loop uses candidate harness code, task ev
 
 ### Related Surveys
 
-* <u>The Agent Loop</u>†: **"The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents"**. *Lee and Park.* SSRN 2026. \[[Paper](https://github.com/js-lee-AI/awesome-agent-loop-papers/blob/main/paper/the-agent-loop-survey.pdf) ⭐ 7 | 🐛 0 | 📅 2026-10-14]
+* <u>The Agent Loop</u>†: **"The Agent Loop: A Survey of Control Strategies, Skills, and Harnesses for LLM Agents"**. *Lee and Park.* SSRN 2026. \[[Paper](https://github.com/js-lee-AI/awesome-agent-loop-papers/blob/main/paper/the-agent-loop-survey.pdf) ⭐ 7 | 🐛 1 | 📅 2026-10-14]
 * <u>LLM Agents Survey</u>: **"A Survey on Large Language Model Based Autonomous Agents"**. *Wang et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2308.11432)]
 * <u>Rise of LLM Agents</u>: **"The Rise and Potential of Large Language Model Based Agents: A Survey"**. *Xi et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2309.07864)]
 * <u>LLM Survey</u>: **"A Survey of Large Language Models"**. *Zhao et al.* arXiv 2023. \[[Paper](https://arxiv.org/abs/2303.18223)]
@@ -619,13 +619,13 @@ The reported Meta-Harness optimization loop uses candidate harness code, task ev
 
 > Production deployment experiences from Stripe, OpenAI, Cursor, METR, and other frontier practitioners.
 
-* <u>Mastra Runtime</u>: **"Mastra: TypeScript Agent Framework and Runtime"**. *Mastra.* 2026. \[[Repository](https://github.com/mastra-ai/mastra) ⭐ 29,067 | 🐛 610 | 🌐 TypeScript | 📅 2026-10-25]
+* <u>Mastra Runtime</u>: **"Mastra: TypeScript Agent Framework and Runtime"**. *Mastra.* 2026. \[[Repository](https://github.com/mastra-ai/mastra) ⭐ 29,094 | 🐛 621 | 🌐 TypeScript | 📅 2026-10-26]
 
-* <u>MiMo-Code Runtime</u>: **"MiMo-Code: Open-Source Coding Agent Harness"**. *XiaomiMiMo.* 2026. \[[Repository](https://github.com/XiaomiMiMo/MiMo-Code) ⭐ 13,722 | 🐛 1,158 | 🌐 TypeScript | 📅 2026-10-23]
+* <u>MiMo-Code Runtime</u>: **"MiMo-Code: Open-Source Coding Agent Harness"**. *XiaomiMiMo.* 2026. \[[Repository](https://github.com/XiaomiMiMo/MiMo-Code) ⭐ 13,730 | 🐛 1,155 | 🌐 TypeScript | 📅 2026-10-26]
 
-* <u>OpenJarvis</u>†: **"OpenJarvis: Personal AI, on Personal Devices"**. *OpenJarvis Team.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2605.17172)] \[[Code](https://github.com/open-jarvis/OpenJarvis) ⭐ 12,037 | 🐛 68 | 🌐 Python | 📅 2026-10-25]
+* <u>OpenJarvis</u>†: **"OpenJarvis: Personal AI, on Personal Devices"**. *OpenJarvis Team.* arXiv 2026. \[[Paper](https://arxiv.org/abs/2605.17172)] \[[Code](https://github.com/open-jarvis/OpenJarvis) ⭐ 12,130 | 🐛 74 | 🌐 Python | 📅 2026-10-26]
 
-* <u>SandBase Runtime</u>: **"SandBase Harness"**. *SandBase.* 2026. \[[Repository](https://github.com/sandbaseai/sandbase-harness) ⭐ 635 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-18]
+* <u>SandBase Runtime</u>: **"SandBase Harness"**. *SandBase.* 2026. \[[Repository](https://github.com/sandbaseai/sandbase-harness) ⭐ 636 | 🐛 18 | 🌐 TypeScript | 📅 2026-10-18]
 
 * <u>Building Effective Agents</u>: **"Building Effective Agents"**. *Anthropic.* Anthropic Engineering Blog, 2026. \[[Blog](https://www.anthropic.com/engineering)]
 
@@ -771,4 +771,4 @@ Corrections and suggestions: <gloriamenng@gmail.com> · <wangyanan@mail.dlut.edu
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-25._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-26._
